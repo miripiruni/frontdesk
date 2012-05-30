@@ -1,39 +1,57 @@
-frontdesk
+Frontdesk
 =========
 
-All that needed to Front-end Developers ;)
+## Баг-трекеры браузеров
+- https://bugs.opera.com/secure/Dashboard.jspa
+- https://bugzilla.mozilla.org/
+- http://code.google.com/p/chromium/issues/list
+- http://www.webkit.org/quality/reporting.htm
 
-http://caniuse.com/
-http://unicodeemoticons.com/
-http://easings.net/
-http://csscomb.com/online/
-XML to JSON http://jsontoxml.utilities-online.info/
+## Эмуляторы мобильных браузеров
+- http://www.opera.com/developer/tools/mini/
+- https://developer.apple.com/devcenter/ios/index.action
+    
+## Dev-сборки браузеров
 
-Баг-трекеры браузеров
-Dev-сборки браузеров
-Где скачать версию X браузера Y?
-MDN
+## Где скачать версию X браузера Y?
 
-Полезные расширения для браузеров
 
-Code snippets:
-    http://dabblet.com
-    http://jsbin.com/
-    https://gist.github.com/
-    http://jsfiddle.net/
+## Полезные расширения для браузеров
 
-http://docs.jquery.com/Main_Page
+## Code snippets
+- http://dabblet.com
+- http://jsbin.com/
+- https://gist.github.com/
+- http://jsfiddle.net/
 
-Эмуляторы мобильных браузеров
+## Misc
+- http://docs.jquery.com/Main_Page
+- http://caniuse.com/
+- http://unicodeemoticons.com/
+- http://easings.net/
+- http://csscomb.com/online/
+- MDN
+- XML to JSON http://jsontoxml.utilities-online.info/
 
-CSS Reset http://meyerweb.com/eric/tools/css/reset/index.html
-CDN (Google, Yandex)
-    https://developers.google.com/speed/libraries/devguide
-    http://api.yandex.ru/jslibs/libs.xml
+## CSS Reset
+- http://meyerweb.com/eric/tools/css/reset/index.html
+    
+## Статистика по браузерам
+- http://gs.statcounter.com/
+- http://www.artlebedev.ru/tools/browsers/
+- http://www.liveinternet.ru/stat/ru/browsers.html?period=month
+- https://www.openstat.ru/counter:meta/trends/report/browser/
+    
+## CDN
+- https://developers.google.com/speed/libraries/devguide
+- http://api.yandex.ru/jslibs/libs.xml
 
-Валидаторы:
-    http://csslint.net
-    http://jigsaw.w3.org/css-validator/
-    http://jslint.com
-    http://validator.w3.org/
+## Валидаторы
+- http://csslint.net
+- http://jigsaw.w3.org/css-validator/
+- http://jslint.com
+- http://validator.w3.org/
+    
+## Шрифты
+- http://cssfontstack.com/
 
