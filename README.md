@@ -33,6 +33,7 @@ Frontdesk
 - MDN
 - XML to JSON http://jsontoxml.utilities-online.info/
 - http://refiddle.com/
+- http://www.evotech.net/articles/testjsentities.html
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
