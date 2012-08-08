@@ -27,6 +27,7 @@ Frontdesk
 ## Misc
 - http://docs.jquery.com/Main_Page
 - http://caniuse.com/
+- http://mobilehtml5.org/
 - http://unicodeemoticons.com/
 - http://easings.net/
 - http://csscomb.com/online/
