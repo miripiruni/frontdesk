@@ -28,6 +28,7 @@ Frontdesk
 - http://docs.jquery.com/Main_Page
 - http://caniuse.com/
 - http://mobilehtml5.org/
+- http://html5please.com/
 - http://unicodeemoticons.com/
 - http://easings.net/
 - http://csscomb.com/online/
