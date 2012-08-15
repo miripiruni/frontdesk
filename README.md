@@ -23,6 +23,7 @@ Frontdesk
 - http://jsbin.com/
 - https://gist.github.com/
 - http://jsfiddle.net/
+- http://codepen.io/
 
 ## Misc
 - http://docs.jquery.com/Main_Page
