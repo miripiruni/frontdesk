@@ -37,6 +37,7 @@ Frontdesk
 - XML to JSON http://jsontoxml.utilities-online.info/
 - http://refiddle.com/
 - http://www.evotech.net/articles/testjsentities.html
+- https://github.com/sveinbjornt/Data-URL-Toolkit
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
