@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com/)
 - [Mozilla](https://bugzilla.mozilla.org/)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.htm)
+- [Webkit](http://www.webkit.org/quality/reporting.html)
 
 ## Mobile simulators 
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
