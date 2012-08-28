@@ -20,6 +20,7 @@ Frontdesk
 
 ## Полезные расширения для браузеров
 - Chrome Dev HTTP Client https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm
+- [Firebug](http://getfirebug.com)
 
 ## Code snippets
 - http://dabblet.com
