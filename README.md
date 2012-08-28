@@ -1,5 +1,7 @@
-Frontdesk: community driven list of useful things
+Frontdesk
 =========
+
+Community driven list of useful things for front end developers
 
 ## Browsers bug trackers
 - [Opera](https://bugs.opera.com/)
