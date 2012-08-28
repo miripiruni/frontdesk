@@ -12,6 +12,7 @@ Frontdesk
 - https://developer.apple.com/devcenter/ios/index.action
     
 ## Dev-сборки браузеров
+- [Блог Opera Desktop Team](http://my.opera.com/desktopteam/blog/), сборки Opera Next
 - https://tools.google.com/dlpage/chromesxs
 
 ## Где скачать версию X браузера Y?
