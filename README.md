@@ -44,6 +44,7 @@ Frontdesk
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
+- [normalize.css](http://necolas.github.com/normalize.css/)
     
 ## Статистика по браузерам
 - http://gs.statcounter.com/
