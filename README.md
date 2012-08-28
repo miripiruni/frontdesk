@@ -45,6 +45,7 @@ Community driven list of useful things for front end developers
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit)
 - [placehold.it](http://placehold.it/)
+- [MicroJS](http://microjs.com/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -59,6 +60,7 @@ Community driven list of useful things for front end developers
 ## CDN
 - [Google CDN](https://developers.google.com/speed/libraries/devguide)
 - [Yandex CDN](http://api.yandex.ru/jslibs/libs.xml)
+- [cdnjs](http://cdnjs.com/)
 
 ## Validators
 - [CSSLint](http://csslint.net)
