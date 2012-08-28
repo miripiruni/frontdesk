@@ -43,6 +43,7 @@ Frontdesk
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
+- http://necolas.github.com/normalize.css/
     
 ## Статистика по браузерам
 - http://gs.statcounter.com/
@@ -62,4 +63,4 @@ Frontdesk
     
 ## Шрифты
 - http://cssfontstack.com/
-
+- http://www.google.com/webfonts/
