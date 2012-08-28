@@ -7,8 +7,8 @@ Frontdesk
 - http://code.google.com/p/chromium/issues/list
 - http://www.webkit.org/quality/reporting.htm
 
-## Эмуляторы мобильных браузеров
-- http://www.opera.com/developer/tools/mini/
+## Эмуляторы мобильных барьеров
+- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
 - https://developer.apple.com/devcenter/ios/index.action
     
 ## Dev-сборки браузеров
