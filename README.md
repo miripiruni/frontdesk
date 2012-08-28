@@ -72,4 +72,4 @@ Community driven list of useful things for front end developers
 - [Google WebFonts](http://www.google.com/webfonts/)
 
 ## OS X Apps
-- [colorsnapper](http://colorsnapper.com/)
+- [ColorSnapper](http://colorsnapper.com/)
