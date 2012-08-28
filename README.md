@@ -15,7 +15,7 @@ Community driven list of useful things for front end developers
     
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
-- [Блог Opera Desktop Team](http://my.opera.com/desktopteam/blog/), сборки Opera Next
+- [Opera Next](http://my.opera.com/desktopteam/blog/) on Desktop team blog
 
 ## Where to download X of browser Y?
 
