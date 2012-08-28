@@ -1,7 +1,7 @@
 Frontdesk
 =========
 
-Community driven list of useful things for front end developers
+Community driven list of useful things for front end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
 ## Browsers bug trackers
 - [Opera](https://bugs.opera.com/)
