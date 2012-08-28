@@ -66,7 +66,7 @@ Community driven list of useful things for front end developers
 - [JSLint](http://jslint.com)
 - [validator.w3.org](http://validator.w3.org/)
     
-## Шрифты
+## Fonts
 - [CSSFontStack](http://cssfontstack.com/)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
