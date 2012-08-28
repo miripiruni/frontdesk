@@ -64,4 +64,5 @@ Frontdesk
     
 ## Шрифты
 - http://cssfontstack.com/
+- [Font Squirrel](http://www.fontsquirrel.com)
 
