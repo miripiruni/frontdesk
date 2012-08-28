@@ -12,11 +12,13 @@ Frontdesk
 - https://developer.apple.com/devcenter/ios/index.action
     
 ## Dev-сборки браузеров
+— https://tools.google.com/dlpage/chromesxs
 
 ## Где скачать версию X браузера Y?
 
 
 ## Полезные расширения для браузеров
+- Chrome Dev HTTP Client https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm
 
 ## Code snippets
 - http://dabblet.com
