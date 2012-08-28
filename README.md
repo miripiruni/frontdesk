@@ -42,6 +42,7 @@ Frontdesk
 - [XML to JSON](XML to JSON http://jsontoxml.utilities-online.info/)
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit)
+- [placehold.it](http://placehold.it/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
