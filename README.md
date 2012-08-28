@@ -2,16 +2,17 @@ Frontdesk
 =========
 
 ## Баг-трекеры браузеров
-- https://bugs.opera.com/secure/Dashboard.jspa
+- https://bugs.opera.com/
 - https://bugzilla.mozilla.org/
 - http://code.google.com/p/chromium/issues/list
 - http://www.webkit.org/quality/reporting.htm
 
-## Эмуляторы мобильных браузеров
-- http://www.opera.com/developer/tools/mini/
+## Эмуляторы мобильных барьеров
+- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
 - https://developer.apple.com/devcenter/ios/index.action
     
 ## Dev-сборки браузеров
+- [Блог Opera Desktop Team](http://my.opera.com/desktopteam/blog/), сборки Opera Next
 - https://tools.google.com/dlpage/chromesxs
 
 ## Где скачать версию X браузера Y?
@@ -19,6 +20,7 @@ Frontdesk
 
 ## Полезные расширения для браузеров
 - Chrome Dev HTTP Client https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm
+- [Firebug](http://getfirebug.com)
 
 ## Code snippets
 - http://dabblet.com
@@ -43,6 +45,7 @@ Frontdesk
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
+- [normalize.css](http://necolas.github.com/normalize.css/)
     
 ## Статистика по браузерам
 - http://gs.statcounter.com/
@@ -62,4 +65,5 @@ Frontdesk
     
 ## Шрифты
 - http://cssfontstack.com/
+- [Font Squirrel](http://www.fontsquirrel.com)
 
