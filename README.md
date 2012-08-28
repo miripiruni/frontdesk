@@ -12,7 +12,7 @@ Frontdesk
 - https://developer.apple.com/devcenter/ios/index.action
     
 ## Dev-сборки браузеров
-— https://tools.google.com/dlpage/chromesxs
+- https://tools.google.com/dlpage/chromesxs
 
 ## Где скачать версию X браузера Y?
 
