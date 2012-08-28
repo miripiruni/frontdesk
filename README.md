@@ -22,6 +22,9 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Where to download X of browser Y?
 
+- [Firefox](ftp://ftp.mozilla.org/pub/firefox/releases/)
+- [Opera](ftp://ftp.opera.com/pub/opera/)
+- [Safari](http://support.apple.com/downloads/#safari)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
