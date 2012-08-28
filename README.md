@@ -37,6 +37,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [caniuse](http://caniuse.com/)
 - [mobilehtml5](http://mobilehtml5.org/)
 - [html5please](http://html5please.com/)
+- [css3please](http://css3please.com/)
 - [Unicode Emoticons](http://unicodeemoticons.com/)
 - [Easings function](http://easings.net/)
 - [CSScomb](http://csscomb.com/online/)
