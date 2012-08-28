@@ -2,7 +2,7 @@ Frontdesk
 =========
 
 ## Баг-трекеры браузеров
-- https://bugs.opera.com/secure/Dashboard.jspa
+- https://bugs.opera.com/
 - https://bugzilla.mozilla.org/
 - http://code.google.com/p/chromium/issues/list
 - http://www.webkit.org/quality/reporting.htm
