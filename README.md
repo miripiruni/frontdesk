@@ -1,24 +1,24 @@
-Frontdesk
+Frontdesk: community driven list of useful things
 =========
 
-## Баг-трекеры браузеров
+## Browsers bug trackers
 - [Opera](https://bugs.opera.com/)
 - [Mozilla](https://bugzilla.mozilla.org/)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
 - [Webkit](http://www.webkit.org/quality/reporting.htm)
 
-## Эмуляторы мобильных браузеров
+## Mobile simulators 
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
 - [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
     
-## Dev-сборки браузеров
+## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Блог Opera Desktop Team](http://my.opera.com/desktopteam/blog/), сборки Opera Next
 
-## Где скачать версию X браузера Y?
+## Where to download X of browser Y?
 
 
-## Полезные расширения для браузеров
+## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Firebug](http://getfirebug.com)
 
@@ -48,7 +48,7 @@ Frontdesk
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
 - [normalize.css](http://necolas.github.com/normalize.css/)
     
-## Статистика по браузерам
+## Any type of stats
 - [StatCounter](http://gs.statcounter.com/)
 - [ArtLebedev](http://www.artlebedev.ru/tools/browsers/)
 - [LiveInternet](http://www.liveinternet.ru/stat/ru/browsers.html?period=month)
@@ -58,7 +58,7 @@ Frontdesk
 - [Google CDN](https://developers.google.com/speed/libraries/devguide)
 - [Yandex CDN](http://api.yandex.ru/jslibs/libs.xml)
 
-## Валидаторы
+## Validators
 - [CSSLint](http://csslint.net)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [JSLint](http://jslint.com)
@@ -68,3 +68,6 @@ Frontdesk
 - [CSSFontStack](http://cssfontstack.com/)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
+
+## OS X Apps
+- [colorsnapper](http://colorsnapper.com/)
