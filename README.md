@@ -67,6 +67,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [humans.txt](http://humanstxt.org)
 - [The CSS3 Test](http://css3test.com)
 - [Cubic-Bezier.com](http://cubic-bezier.com/)
+- [Adobe Shadow](http://labs.adobe.com/technologies/shadow/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
