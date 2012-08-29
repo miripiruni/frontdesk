@@ -16,9 +16,10 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Opera Next](http://my.opera.com/desktopteam/blog/) on Desktop team blog
+- [Firefox Nightly](http://nightly.mozilla.org/)
 
 ## Where to download X of browser Y?
-
+- [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
@@ -45,6 +46,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit)
 - [placehold.it](http://placehold.it/)
+- [jsPerf — JavaScript performance playground](http://jsperf.com/)
+- [RegExr](http://gskinner.com/RegExr/)
+- [humans.txt](http://humanstxt.org)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -64,12 +68,14 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSLint](http://csslint.net)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [JSLint](http://jslint.com)
+- [JSHint](http://jshint.com/)
 - [validator.w3.org](http://validator.w3.org/)
     
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com/)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
+- [Fontello - iconic fonts scissors](http://fontello.com/)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
