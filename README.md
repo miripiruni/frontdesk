@@ -23,6 +23,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Firebug](http://getfirebug.com)
+- [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 
 ## Code snippets
 - [Dabblet](http://dabblet.com)
@@ -34,6 +35,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Misc
 - [jQuery Docs](http://docs.jquery.com/Main_Page)
+- [The Toolbox](http://www.thetoolbox.cc/)
 - [caniuse](http://caniuse.com/)
 - [mobilehtml5](http://mobilehtml5.org/)
 - [html5please](http://html5please.com/)
@@ -45,6 +47,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit)
 - [placehold.it](http://placehold.it/)
+- [lorempixel](http://lorempixel.com/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
