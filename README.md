@@ -97,6 +97,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
 - [LiveReload](http://livereload.com/)
 - [PixFit](http://splashsoftware.pl/pixfit/)
+- [xScope](http://xscopeapp.com)
+
 
 ##Git
 - [GitHowTo](http://githowto.com/)
