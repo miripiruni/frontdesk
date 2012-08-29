@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com/)
 - [Mozilla](https://bugzilla.mozilla.org/)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.html)
+- [Webkit](http://www.webkit.org/quality/reporting.htm)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
@@ -58,6 +58,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MicroJS](http://microjs.com/)
 - [JavaScript Beautifier](http://jsbeautifier.org/)
 - [Procssor](http://procssor.com/): CSS Beautifier
+- [WP-Snippets](http://wp-snippets.com/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -90,3 +91,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
 - [LiveReload](http://livereload.com/)
 - [PixFit](http://splashsoftware.pl/pixfit/)
+
+##Git
+- [GitHowTo](http://githowto.com/)
+- [Pro Git](http://git-scm.com/book)
