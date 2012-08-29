@@ -16,7 +16,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [IE 10](http://ie.microsoft.com/TESTdrive/)
-- [Opera Next](http://www.opera.com/browser/next/)
+- [Opera Next Beta builds](http://www.opera.com/browser/next/)
+- [Opera Next Labs builds](http://dev.opera.com/labs/)
+- [Opera Next Nightly builds](http://my.opera.com/desktopteam/blog/)
 - [Webkit Nightly](http://nightly.webkit.org/)
 - [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 - [Firefox Nightly](http://nightly.mozilla.org/)
