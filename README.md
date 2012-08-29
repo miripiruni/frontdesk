@@ -63,6 +63,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [jsPerf — JavaScript performance playground](http://jsperf.com/)
 - [RegExr](http://gskinner.com/RegExr/)
 - [humans.txt](http://humanstxt.org)
+- [The CSS3 Test](http://css3test.com)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
