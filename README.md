@@ -77,3 +77,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Wordpress
 - [WP-Snippets](http://wp-snippets.com/)
+
+##Git
+- [GitHowTo](http://githowto.com/)
+- [Pro Git](http://git-scm.com/book)
