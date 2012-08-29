@@ -108,8 +108,8 @@ Thanks
 
 Commits by:
 
-  30 Slava Oliyanchuk
-   2 Mikhail Baranov
-   1 Vladimir Epifanov
-   1 Alexander
-   1 Alex Kotomanov
+ *  30 Slava Oliyanchuk
+ *   2 Mikhail Baranov
+ *   1 Vladimir Epifanov
+ *   1 Alexander
+ *   1 Alex Kotomanov
