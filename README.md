@@ -16,7 +16,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [IE 10](http://ie.microsoft.com/TESTdrive/)
-- [Opera Next](http://www.opera.com/browser/next/)
+- [Opera Next Beta builds](http://www.opera.com/browser/next/)
+- [Opera Next Labs builds](http://dev.opera.com/labs/)
+- [Opera Next Nightly builds](http://my.opera.com/desktopteam/blog/)
 - [Webkit Nightly](http://nightly.webkit.org/)
 - [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 - [Firefox Nightly](http://nightly.mozilla.org/)
@@ -63,6 +65,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [jsPerf — JavaScript performance playground](http://jsperf.com/)
 - [RegExr](http://gskinner.com/RegExr/)
 - [humans.txt](http://humanstxt.org)
+- [The CSS3 Test](http://css3test.com)
+- [Cubic-Bezier.com](http://cubic-bezier.com/)
+- [Adobe Shadow](http://labs.adobe.com/technologies/shadow/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -82,23 +87,27 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Validators
 - [CSSLint](http://csslint.net)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
+- [W3C HTML Validator](http://validator.w3.org/)
 - [JSLint](http://jslint.com)
 - [JSHint](http://jshint.com/)
-- [validator.w3.org](http://validator.w3.org/)
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com/)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
-- [Fontello - iconic fonts scissors](http://fontello.com/)
+- [Fontello — iconic fonts scissors](http://fontello.com/)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
 - [LiveReload](http://livereload.com/)
 - [PixFit](http://splashsoftware.pl/pixfit/)
+- [xScope](http://xscopeapp.com)
+- [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
+- [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
+- [ImageOptim](http://imageoptim.com)
 
-##Git
+## Git
 - [GitHowTo](http://githowto.com/)
 - [Pro Git](http://git-scm.com/book)
 
