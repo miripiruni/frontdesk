@@ -15,10 +15,16 @@ Community driven list of useful things for front end developers. [How to contrib
     
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
-- [Opera Next](http://my.opera.com/desktopteam/blog/) on Desktop team blog
+- [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
+- [IE 10](http://ie.microsoft.com/TESTdrive/)
+- [Opera Next](http://www.opera.com/browser/next/)
+- [Webkit Nightly](http://nightly.webkit.org/)
 
 ## Where to download X of browser Y?
 
+- [Firefox](ftp://ftp.mozilla.org/pub/firefox/releases/)
+- [Opera](ftp://ftp.opera.com/pub/opera/)
+- [Safari](http://support.apple.com/downloads/#safari)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
