@@ -105,6 +105,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [xScope](http://xscopeapp.com)
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
+- [ImageOptim](http://imageoptim.com)
 
 ## Git
 - [GitHowTo](http://githowto.com/)
