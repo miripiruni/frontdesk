@@ -101,3 +101,15 @@ Community driven list of useful things for front end developers. [How to contrib
 ##Git
 - [GitHowTo](http://githowto.com/)
 - [Pro Git](http://git-scm.com/book)
+
+
+Thanks
+======
+
+Commits by:
+
+  30 Slava Oliyanchuk
+   2 Mikhail Baranov
+   1 Vladimir Epifanov
+   1 Alexander
+   1 Alex Kotomanov
