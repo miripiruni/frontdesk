@@ -102,6 +102,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [LiveReload](http://livereload.com/)
 - [PixFit](http://splashsoftware.pl/pixfit/)
 - [xScope](http://xscopeapp.com)
+- [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 
 
 ## Git
