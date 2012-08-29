@@ -53,7 +53,11 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit)
 - [placehold.it](http://placehold.it/)
+<<<<<<< HEAD
 - [lorempixel](http://lorempixel.com/)
+=======
+- [MicroJS](http://microjs.com/)
+>>>>>>> a2c5f3565981d91353d867f48b067a5b38941577
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -68,6 +72,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## CDN
 - [Google CDN](https://developers.google.com/speed/libraries/devguide)
 - [Yandex CDN](http://api.yandex.ru/jslibs/libs.xml)
+- [cdnjs](http://cdnjs.com/)
 
 ## Validators
 - [CSSLint](http://csslint.net)
@@ -81,5 +86,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Google WebFonts](http://www.google.com/webfonts/)
 
 ## OS X Apps
+<<<<<<< HEAD
 - [ColorSnapper](http://colorsnapper.com/)
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
+=======
+- [colorsnapper](http://colorsnapper.com/)
+>>>>>>> a2c5f3565981d91353d867f48b067a5b38941577
