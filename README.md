@@ -100,6 +100,6 @@ Community driven list of useful things for front end developers. [How to contrib
 - [xScope](http://xscopeapp.com)
 
 
-##Git
+## Git
 - [GitHowTo](http://githowto.com/)
 - [Pro Git](http://git-scm.com/book)
