@@ -82,9 +82,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Validators
 - [CSSLint](http://csslint.net)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
+- [W3C HTML Validator](http://validator.w3.org/)
 - [JSLint](http://jslint.com)
 - [JSHint](http://jshint.com/)
-- [validator.w3.org](http://validator.w3.org/)
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com/)
