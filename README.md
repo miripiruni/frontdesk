@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com/)
 - [Mozilla](https://bugzilla.mozilla.org/)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.htm)
+- [Webkit](http://www.webkit.org/quality/reporting.html)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
@@ -15,14 +15,15 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
-- [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 - [IE 10](http://ie.microsoft.com/TESTdrive/)
 - [Opera Next](http://www.opera.com/browser/next/)
 - [Webkit Nightly](http://nightly.webkit.org/)
+- [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
+- [Firefox Nightly](http://nightly.mozilla.org/)
 
 ## Where to download X of browser Y?
-
 - [Firefox](ftp://ftp.mozilla.org/pub/firefox/releases/)
+- [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
 - [Opera](ftp://ftp.opera.com/pub/opera/)
 - [Safari](http://support.apple.com/downloads/#safari)
 
@@ -59,6 +60,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [JavaScript Beautifier](http://jsbeautifier.org/)
 - [Procssor](http://procssor.com/): CSS Beautifier
 - [WP-Snippets](http://wp-snippets.com/)
+- [jsPerf — JavaScript performance playground](http://jsperf.com/)
+- [RegExr](http://gskinner.com/RegExr/)
+- [humans.txt](http://humanstxt.org)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -79,12 +83,14 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSLint](http://csslint.net)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [JSLint](http://jslint.com)
+- [JSHint](http://jshint.com/)
 - [validator.w3.org](http://validator.w3.org/)
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com/)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
+- [Fontello - iconic fonts scissors](http://fontello.com/)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
