@@ -45,6 +45,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [caniuse](http://caniuse.com/)
 - [mobilehtml5](http://mobilehtml5.org/)
 - [html5please](http://html5please.com/)
+- [css3please](http://css3please.com/)
 - [Unicode Emoticons](http://unicodeemoticons.com/)
 - [Easings function](http://easings.net/)
 - [CSScomb](http://csscomb.com/online/)
@@ -55,6 +56,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [placehold.it](http://placehold.it/)
 - [lorempixel](http://lorempixel.com/)
 - [MicroJS](http://microjs.com/)
+- [JavaScript Beautifier](http://jsbeautifier.org/)
+- [Procssor](http://procssor.com/): CSS Beautifier
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
