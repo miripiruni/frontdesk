@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com/)
 - [Mozilla](https://bugzilla.mozilla.org/)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.html)
+- [Webkit](http://www.webkit.org/quality/reporting.htm)
 
 ## Mobile simulators 
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
@@ -74,3 +74,6 @@ Community driven list of useful things for front end developers. [How to contrib
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
+
+## Wordpress
+- [WP-Snippets](http://wp-snippets.com/)
