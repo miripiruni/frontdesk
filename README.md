@@ -85,3 +85,5 @@ Community driven list of useful things for front end developers. [How to contrib
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
 - [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
+- [LiveReload](http://livereload.com/)
+- [PixFit](http://splashsoftware.pl/pixfit/)
