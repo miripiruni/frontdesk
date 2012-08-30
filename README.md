@@ -107,6 +107,11 @@ Community driven list of useful things for front end developers. [How to contrib
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
 - [ImageOptim](http://imageoptim.com)
 
+## Generators:
+- [CSS Gradient finder](http://gradientfinder.com/)
+- [CSS Gradient generator](http://www.colorzilla.com/gradient-editor/)
+
+
 ## Git
 - [GitHowTo](http://githowto.com/)
 - [Pro Git](http://git-scm.com/book)
