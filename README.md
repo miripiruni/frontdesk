@@ -112,7 +112,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor/)
 - [Easing animation tool](http://matthewlein.com/ceaser/) or [other](http://cubic-bezier.com/)
 - [Sprite generator](http://spritepad.wearekiss.com/)
-
+- [Favicon generator](http://www.favicon.cc/)
 
 ## Git
 - [GitHowTo](http://githowto.com/)
