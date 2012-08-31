@@ -118,6 +118,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Easing animation tool](http://matthewlein.com/ceaser/) or [other](http://cubic-bezier.com/)
 - [Sprite generator](http://spritepad.wearekiss.com/)
 - [Favicon generator](http://www.favicon.cc/)
+- [Sprite Cow - CSS Sprites](http://www.spritecow.com/)
 
 ## Git
 - [GitHowTo](http://githowto.com/)
