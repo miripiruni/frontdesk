@@ -24,9 +24,13 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Firefox Nightly](http://nightly.mozilla.org/)
 
 ## Where to download X of browser Y?
-- [Firefox](ftp://ftp.mozilla.org/pub/firefox/releases/)
-- [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
-- [Opera](ftp://ftp.opera.com/pub/opera/)
+- Firefox: 
+	- [Official FTP](ftp://ftp.mozilla.org/pub/firefox/releases/) 
+	- [Bash script](https://github.com/omgmog/install-all-firefox)
+	- [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
+- Opera: 
+	- [Official FTP](ftp://ftp.opera.com/pub/opera/) 
+	- [HTTP (oldversion.com)](http://www.oldversion.com/macintosh/Opera.html)
 - [Safari](http://support.apple.com/downloads/#safari)
 
 ## Browsers plugins
