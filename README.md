@@ -100,6 +100,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
 - [Fontello — iconic fonts scissors](http://fontello.com/)
+- [Online Font Converter —  w/o black list](http://onlinefontconverter.com/)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
