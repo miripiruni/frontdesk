@@ -71,6 +71,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns/)
 - [PNG compressor](http://www.punypng.com/)
 - [JPEG compressor](http://www.jpegmini.com/)
+- [Special Characters Easy to Paste](http://copypastecharacter.com/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
