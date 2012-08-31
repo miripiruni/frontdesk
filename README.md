@@ -72,6 +72,10 @@ Community driven list of useful things for front end developers. [How to contrib
 - [The CSS3 Test](http://css3test.com)
 - [Cubic-Bezier.com](http://cubic-bezier.com/)
 - [Adobe Shadow](http://labs.adobe.com/technologies/shadow/)
+- [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns/)
+- [PNG compressor](http://www.punypng.com/)
+- [JPEG compressor](http://www.jpegmini.com/)
+- [Special Characters Easy to Paste](http://copypastecharacter.com/)
 
 ## CSS Reset
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
@@ -100,6 +104,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
 - [Fontello — iconic fonts scissors](http://fontello.com/)
+- [Online Font Converter —  w/o black list](http://onlinefontconverter.com/)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com/)
@@ -117,6 +122,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Easing animation tool](http://matthewlein.com/ceaser/) or [other](http://cubic-bezier.com/)
 - [Sprite generator](http://spritepad.wearekiss.com/)
 - [Favicon generator](http://www.favicon.cc/)
+- [Sprite Cow - CSS Sprites](http://www.spritecow.com/)
 
 ## Git
 - [GitHowTo](http://githowto.com/)
