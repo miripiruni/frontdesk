@@ -3,10 +3,6 @@ Frontdesk
 
 Community driven list of useful things for front end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
-TOC
-===
-{:toc}
-
 ## Browsers bug trackers
 - [Opera](https://bugs.opera.com)
 - [Mozilla](https://bugzilla.mozilla.org)
