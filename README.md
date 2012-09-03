@@ -10,7 +10,7 @@ Frontdesk
 ## Эмуляторы мобильных браузеров
 - http://www.opera.com/developer/tools/mini/
 - https://developer.apple.com/devcenter/ios/index.action
-    
+
 ## Dev-сборки браузеров
 - https://tools.google.com/dlpage/chromesxs
 
@@ -40,16 +40,17 @@ Frontdesk
 - http://refiddle.com/
 - http://www.evotech.net/articles/testjsentities.html
 - https://github.com/sveinbjornt/Data-URL-Toolkit
+- http://dataurl.net/
 
 ## CSS Reset
 - http://meyerweb.com/eric/tools/css/reset/index.html
-    
+
 ## Статистика по браузерам
 - http://gs.statcounter.com/
 - http://www.artlebedev.ru/tools/browsers/
 - http://www.liveinternet.ru/stat/ru/browsers.html?period=month
 - https://www.openstat.ru/counter:meta/trends/report/browser/
-    
+
 ## CDN
 - https://developers.google.com/speed/libraries/devguide
 - http://api.yandex.ru/jslibs/libs.xml
@@ -59,7 +60,7 @@ Frontdesk
 - http://jigsaw.w3.org/css-validator/
 - http://jslint.com
 - http://validator.w3.org/
-    
+
 ## Шрифты
 - http://cssfontstack.com/
 
