@@ -26,8 +26,7 @@ Community driven list of useful things for front end developers. [How to contrib
     - [Bash script](https://github.com/omgmog/install-all-firefox)
     - [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
 - Opera:
-    - [Official FTP](ftp://ftp.opera.com/pub/opera/)
-    - [HTTP (oldversion.com)](http://www.oldversion.com/macintosh/Opera.html)
+    - [Official archive](http://arc.opera.com/pub/opera/)
 - [Safari](http://support.apple.com/downloads/#safari)
 
 ## Browsers plugins
