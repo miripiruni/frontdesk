@@ -78,6 +78,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSS Gradient finder](http://gradientfinder.com)
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor/)
 - [Sprite Cow](http://www.spritecow.com) - CSS Sprites
+- [dataurl.net](http://dataurl.net)
 
 ## Misc
 - [caniuse](http://caniuse.com)
