@@ -27,6 +27,7 @@ Community driven list of useful things for front end developers. [How to contrib
     - [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
 - Opera:
     - [Official archive](http://arc.opera.com/pub/opera/)
+    - [Version history](http://www.opera.com/docs/history/)
 - [Safari](http://support.apple.com/downloads/#safari)
 
 ## Browsers plugins
