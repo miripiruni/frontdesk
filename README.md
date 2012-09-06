@@ -20,7 +20,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Webkit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 
-## Where to download X of browser Y?
+## Where to download version X of browser Y?
 - Firefox:
     - [Official archive](http://ftp.mozilla.org/pub/mozilla.org/)
     - [Bash script](https://github.com/omgmog/install-all-firefox)
