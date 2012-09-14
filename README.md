@@ -64,6 +64,13 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
 
+## Testing frameworks
+- [Jasmine](http://pivotal.github.com/jasmine/)
+- [Mocha](http://visionmedia.github.com/mocha/)
+- [QUnit](http://qunitjs.com)
+- [Buster.js](http://busterjs.org)
+- [YUI Test](http://yuilibrary.com/yui/docs/test/)
+
 ## HTML
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
