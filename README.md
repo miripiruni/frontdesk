@@ -29,6 +29,8 @@ Community driven list of useful things for front end developers. [How to contrib
     - [Official archive](http://arc.opera.com/pub/opera/)
     - [Version history](http://www.opera.com/docs/history/)
 - [Safari](http://support.apple.com/downloads/#safari)
+- Chromium:
+	- [All builds](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
@@ -177,3 +179,4 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Git
 - [GitHowTo](http://githowto.com)
 - [Pro Git](http://git-scm.com/book)
+- [Try Git](http://try.github.com)
