@@ -77,6 +77,19 @@ Community driven list of useful things for front end developers. [How to contrib
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
 
+## Template engines
+- [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
+- [Handlebars](http://handlebarsjs.com)
+- [ICanHaz.js](http://icanhazjs.com)
+- [Hogan.js](http://twitter.github.com/hogan.js/) - JavaScript templating from Twitter.
+- [Jade](http://jade-lang.com)
+- [EJS](http://embeddedjs.com)
+- [JUST](https://github.com/baryshev/just)
+- [Closure Templates](http://code.google.com/p/closure-templates/)
+- [ECT](http://ectjs.com) - JavaScript template engine with CoffeeScript syntax
+- [Dust](http://akdubya.github.com/dustjs/) - Asynchronous templates for the browser and node.js
+- [TwigJS](https://github.com/fadrizul/twigjs) - A port of PHP template engine to JavaScript
+
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
 - [css3please](http://css3please.com)
