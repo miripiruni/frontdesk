@@ -66,6 +66,19 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
 
+## JS frameworks
+- [Backbone.js](http://backbonejs.org) - give your JS App some Backbone with Models, Views, Collections, and Events.
+- [Knockout](http://knockoutjs.com) - is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
+- [Knockback.js](http://kmalakoff.github.com/knockback/) - provides Knockout.js magic for Backbone.js Models and Collections.
+- [AngularJS](http://angularjs.org)
+- [Ember.js](http://emberjs.com)
+- [CanJS](http://canjs.us)
+- [Spine](http://spinejs.com) - lightweight MVC library for building JavaScript applications.
+- [Batman.js](http://batmanjs.org) - is a framework for building rich single-page browser applications with CoffeeScript or JavaScript.
+- [Dojo](http://dojotoolkit.org)
+- [Agility.js](http://agilityjs.com) - is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
+- [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
+
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine/)
 - [Mocha](http://visionmedia.github.com/mocha/)
