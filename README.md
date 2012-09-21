@@ -49,7 +49,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Img
 - [PNG compressor](http://www.punypng.com)
-- [Tiny png](http://tinypng.org/) - can make IE6 friendly PNGs
+- [Tiny png](http://tinypng.org) - can make IE6 friendly PNGs
 - [IMGO](https://github.com/imgo/imgo)
 - [JPEG compressor](http://www.jpegmini.com)
 - [placehold.it](http://placehold.it)
@@ -118,25 +118,25 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
-- [SASS and SCSS](http://sass-lang.com/)
-- [xCSS](http://xcss.antpaw.org/) - PHP based CSS preprocessor
+- [SASS and SCSS](http://sass-lang.com)
+- [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
 - [Stylus](http://learnboost.github.com/stylus/)
-- [Compass](http://compass-style.org/)
-- [CSS to SASS](http://css2sass.heroku.com/)
-- [CSS to Less](http://css2less.cc/)
+- [Compass](http://compass-style.org)
+- [CSS to SASS](http://css2sass.heroku.com)
+- [CSS to Less](http://css2less.cc)
 
 ## CSS frameworks
 - [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-- [Blueprint CSS](http://www.blueprintcss.org/)
-- [HTML5 boilerplate](http://html5boilerplate.com/) - The web’s most popular front-end template
+- [Blueprint CSS](http://www.blueprintcss.org)
+- [HTML5 boilerplate](http://html5boilerplate.com) - The web’s most popular front-end template
 - [HTML5 mobile boilerplate](http://html5boilerplate.com/mobile/) - A best practice baseline for your mobile web app
-- [960gs](http://960.gs/) - CSS grids system framework
+- [960gs](http://960.gs) - CSS grids system framework
 
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
 - [Google style guides](http://code.google.com/p/google-styleguide/)
-- [SMACSS](http://smacss.com/) - Scalable and Modular Architecture for CSS
-- [OOCSS](http://oocss.org/) - Object oriented CSS
+- [SMACSS](http://smacss.com) - Scalable and Modular Architecture for CSS
+- [OOCSS](http://oocss.org) - Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) - Block Element Modificator
 
 ## Misc
@@ -149,8 +149,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Special Characters Easy to Paste](http://copypastecharacter.com)
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [ipsum.me](http://ipsum.me)
-- [Schema.org](http://schema.org/) - Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
-- [Microformats.org](http://microformats.org/) - hcard, hcalendar and etc.
+- [Schema.org](http://schema.org) - Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
+- [Microformats.org](http://microformats.org) - hcard, hcalendar and etc.
 - [base64 converter](http://www.greywyvern.com/code/php/binary2base64)
 
 ## Stats
@@ -163,7 +163,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSO](http://afelix.github.com/csso/) - Cleaver css optimizer
 - [YSlow](http://developer.yahoo.com/yslow/) - Cross-browser plugin for page speed and performance testing
 - [Google page speed](https://developers.google.com/speed/pagespeed/) - Page speed measurement tools collection from Google
-- [Web page test](http://www.webpagetest.org/) - Check page speed from multiple locations around the globe using real browsers
+- [Web page test](http://www.webpagetest.org) - Check page speed from multiple locations around the globe using real browsers
 - [jsPerf — JavaScript performance playground](http://jsperf.com)
 
 ## CDN
@@ -181,7 +181,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSLint](http://csslint.net)
 - [JSLint](http://jslint.com)
 - [JSHint](http://jshint.com)
-- [CSS Lint](http://csslint.net/)
+- [CSS Lint](http://csslint.net)
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com)
@@ -189,7 +189,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Google WebFonts](http://www.google.com/webfonts/)
 - [Fontello](http://fontello.com) — iconic fonts scissors
 - [Online Font Converter](http://onlinefontconverter.com)
-- [Check font name by screenshot](http://www.whatfontis.com/)
+- [Check font name by screenshot](http://www.whatfontis.com)
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com)
@@ -200,7 +200,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
 - [ImageOptim](http://imageoptim.com)
-- [BLESS CSS](http://blesscss.com/) - Fighting IEs CSS selectors limit, and nice tool for checking CSS selectors count
+- [BLESS CSS](http://blesscss.com) - Fighting IEs CSS selectors limit, and nice tool for checking CSS selectors count
 
 ## Git
 - [GitHowTo](http://githowto.com)
