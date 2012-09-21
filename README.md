@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.html)
+- [Webkit](http://www.webkit.org/quality/reporting.htm)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
@@ -124,13 +124,27 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Compass](http://compass-style.org)
 - [CSS to SASS](http://css2sass.heroku.com)
 - [CSS to Less](http://css2less.cc)
+- [LESS Elements](http://lesselements.com) – a set of useful mixins for the LESS
 
 ## CSS frameworks
 - [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-- [Blueprint CSS](http://www.blueprintcss.org)
-- [HTML5 boilerplate](http://html5boilerplate.com) - The web’s most popular front-end template
+- [Zurb Foundation](http://foundation.zurb.com/)
+- [YUI](http://yuilibrary.com/)
+- [Blueprint CSS](http://www.blueprintcss.org/)
+- [HTML5 boilerplate](http://html5boilerplate.com/) - The web’s most popular front-end template
 - [HTML5 mobile boilerplate](http://html5boilerplate.com/mobile/) - A best practice baseline for your mobile web app
-- [960gs](http://960.gs) - CSS grids system framework
+- [HTML5 Reset](http://html5reset.org/) – One more boilerplate
+- [HTML Email boilerplate](http://htmlemailboilerplate.com/)
+- [Initializr](http://www.initializr.com/) — Choose your boilerplate
+- [960gs](http://960.gs/) - CSS grids system framework
+- [The Semantic Grid System](http://semantic.gs/)
+- [1140 CSS Grid](http://cssgrid.net/)
+- [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
+- [Less Framework](http://lessframework.com/)
+- [Skeleton](http://www.getskeleton.com/)
+- [inuit.css](http://csswizardry.com/inuitcss/)
+- [baseline](http://baselinecss.com/)
+- [Frameless grid](http://framelessgrid.com/)
 
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
