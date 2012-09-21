@@ -30,7 +30,7 @@ Community driven list of useful things for front end developers. [How to contrib
     - [Version history](http://www.opera.com/docs/history/)
 - [Safari](http://support.apple.com/downloads/#safari)
 - Chromium:
-	- [All builds](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html)
+    - [All builds](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
@@ -50,7 +50,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Img
 - [PNG compressor](http://www.punypng.com)
 - [Tiny png](http://tinypng.org) - can make IE6 friendly PNGs
-- [IMGO](https://github.com/imgo/imgo)
+- [IMGO](https://github.com/imgo/imgo) - image optimization tool
 - [JPEG compressor](http://www.jpegmini.com)
 - [placehold.it](http://placehold.it)
 - [lorempixel](http://lorempixel.com)
@@ -102,13 +102,14 @@ Community driven list of useful things for front end developers. [How to contrib
 - [ECT](http://ectjs.com) - JavaScript template engine with CoffeeScript syntax
 - [Dust](http://akdubya.github.com/dustjs/) - Asynchronous templates for the browser and node.js
 - [TwigJS](https://github.com/fadrizul/twigjs) - A port of PHP template engine to JavaScript
+- [yate](https://github.com/pasaran/yate) - Yet Another Template Engine
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
 - [css3please](http://css3please.com)
 - [The CSS3 Test](http://css3test.com)
-- [CSScomb](http://csscomb.com/online)
-- [Procssor](http://procssor.com): CSS Beautifier
+- [CSScomb](http://csscomb.com) - tool for sorting CSS properties in specific order
+- [Procssor](http://procssor.com) - CSS Beautifier
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
 - [normalize.css](http://necolas.github.com/normalize.css/)
 - [CSS Gradient finder](http://gradientfinder.com)
@@ -118,37 +119,38 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
+    - [CSS to Less](http://css2less.cc)
+    - [LESS Elements](http://lesselements.com) – a set of useful mixins for the LESS
 - [SASS and SCSS](http://sass-lang.com)
-- [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
+    - [CSS to SASS](http://css2sass.heroku.com)
+    - [Compass](http://compass-style.org)
 - [Stylus](http://learnboost.github.com/stylus/)
-- [Compass](http://compass-style.org)
-- [CSS to SASS](http://css2sass.heroku.com)
-- [CSS to Less](http://css2less.cc)
-- [LESS Elements](http://lesselements.com) – a set of useful mixins for the LESS
+    - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
+- [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
 
 ## CSS frameworks
 - [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-- [Zurb Foundation](http://foundation.zurb.com/)
-- [YUI](http://yuilibrary.com/)
-- [Blueprint CSS](http://www.blueprintcss.org/)
-- [HTML5 boilerplate](http://html5boilerplate.com/) - The web’s most popular front-end template
+- [Zurb Foundation](http://foundation.zurb.com)
+- [YUI](http://yuilibrary.com)
+- [Blueprint CSS](http://www.blueprintcss.org)
+- [HTML5 boilerplate](http://html5boilerplate.com) - The web’s most popular front-end template
 - [HTML5 mobile boilerplate](http://html5boilerplate.com/mobile/) - A best practice baseline for your mobile web app
-- [HTML5 Reset](http://html5reset.org/) – One more boilerplate
-- [HTML Email boilerplate](http://htmlemailboilerplate.com/)
-- [Initializr](http://www.initializr.com/) — Choose your boilerplate
-- [960gs](http://960.gs/) - CSS grids system framework
-- [The Semantic Grid System](http://semantic.gs/)
-- [1140 CSS Grid](http://cssgrid.net/)
+- [HTML5 Reset](http://html5reset.org) – One more boilerplate
+- [HTML Email boilerplate](http://htmlemailboilerplate.com)
+- [Initializr](http://www.initializr.com) — Choose your boilerplate
+- [960gs](http://960.gs) - CSS grids system framework
+- [The Semantic Grid System](http://semantic.gs)
+- [1140 CSS Grid](http://cssgrid.net)
 - [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
-- [Less Framework](http://lessframework.com/)
-- [Skeleton](http://www.getskeleton.com/)
+- [Less Framework](http://lessframework.com)
+- [Skeleton](http://www.getskeleton.com)
 - [inuit.css](http://csswizardry.com/inuitcss/)
-- [baseline](http://baselinecss.com/)
-- [Frameless grid](http://framelessgrid.com/)
+- [baseline](http://baselinecss.com)
+- [Frameless grid](http://framelessgrid.com)
 
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
-- [Google style guides](http://code.google.com/p/google-styleguide/)
+- [Google style guide](http://code.google.com/p/google-styleguide/)
 - [SMACSS](http://smacss.com) - Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) - Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) - Block Element Modificator
@@ -195,7 +197,6 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSLint](http://csslint.net)
 - [JSLint](http://jslint.com)
 - [JSHint](http://jshint.com)
-- [CSS Lint](http://csslint.net)
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com)
@@ -206,15 +207,15 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Check font name by screenshot](http://www.whatfontis.com)
 
 ## OS X Apps
-- [ColorSnapper](http://colorsnapper.com)
-- [Gitbox](http://itunes.apple.com/ru/app/gitbox/id403388357?mt=12)
+- [ColorSnapper](http://colorsnapper.com) - easy-to-use tool for quickly finding out the color of any pixel on the screen
+- [Gitbox](http://gitboxapp.com)
 - [LiveReload](http://livereload.com)
 - [PixFit](http://splashsoftware.pl/pixfit/)
-- [xScope](http://xscopeapp.com)
+- [xScope](http://xscopeapp.com) - for measuring, inspecting & testing on-screen graphics and layouts
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
 - [ImageOptim](http://imageoptim.com)
-- [BLESS CSS](http://blesscss.com) - Fighting IEs CSS selectors limit, and nice tool for checking CSS selectors count
+- [BLESS CSS](http://blesscss.com) - fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 
 ## Git
 - [GitHowTo](http://githowto.com)
