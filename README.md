@@ -188,9 +188,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [cdnjs](http://cdnjs.com)
 
 ## Manuals
-- [jQuery Docs](http://docs.jquery.com/Main_Page)
+- [jQuery Docs](http://docs.jquery.com)
 - [MDN](https://developer.mozilla.org)
-- [CSS, HTML, JavaScript, DOM, jQuery, PHP, Python](http://dochub.io/)
+- [CSS, HTML, JavaScript, DOM, jQuery, PHP, Python](http://dochub.io)
 
 ## Validators
 - [W3C HTML Validator](http://validator.w3.org)
