@@ -125,6 +125,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SASS and SCSS](http://sass-lang.com)
     - [CSS to SASS](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
+    - [sassmeister](http://sassmeister.com) - playground for Sass
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
 - [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
