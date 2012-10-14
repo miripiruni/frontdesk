@@ -125,7 +125,6 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SASS and SCSS](http://sass-lang.com)
     - [CSS to SASS](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
-    - [sassmeister](http://sassmeister.com) - playground for Sass
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
 - [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
@@ -156,6 +155,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SMACSS](http://smacss.com) - Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) - Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) - Block Element Modificator
+- [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) by Tait Brown ([@taitems](http://www.twitter.com/taitems)).
+- [Front end standards](http://yellowshoe.com.au/standards/) by Mark Brown ([@markbrown4](https://twitter.com/markbrown4))
 
 ## Misc
 - [caniuse](http://caniuse.com)
