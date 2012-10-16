@@ -62,9 +62,6 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MicroJS](http://microjs.com)
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
-- [Easing animation tool](http://matthewlein.com/ceaser/)
-- [Cubic-Bezier](http://cubic-bezier.com)
-- [Easings function](http://easings.net)
 
 ## JS frameworks
 - [Backbone.js](http://backbonejs.org) - give your JS App some Backbone with Models, Views, Collections, and Events.
@@ -116,6 +113,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor/)
 - [Sprite Cow](http://www.spritecow.com) - CSS Sprites
 - [CSS3 Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com/all/)
+- [Easing animation tool](http://matthewlein.com/ceaser/)
+- [Cubic-Bezier](http://cubic-bezier.com)
+- [Easings function](http://easings.net)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
@@ -125,6 +125,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SASS and SCSS](http://sass-lang.com)
     - [CSS to SASS](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
+        - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
     - [sassmeister](http://sassmeister.com) - playground for Sass
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
