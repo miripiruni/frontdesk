@@ -219,6 +219,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
 - [ImageOptim](http://imageoptim.com)
+- [ImageAlpha](http://pngmini.com)
 - [BLESS CSS](http://blesscss.com) - fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 
 ## Git
