@@ -149,6 +149,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [inuit.css](http://csswizardry.com/inuitcss/)
 - [baseline](http://baselinecss.com)
 - [Frameless grid](http://framelessgrid.com)
+- [Kube](http://imperavi.com/kube/)
 
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
