@@ -83,6 +83,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Buster.js](http://busterjs.org)
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
 - [D.O.H.](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
+- [wru](https://github.com/WebReflection/wru.git)
 
 ## HTML
 - [html5please](http://html5please.com)
