@@ -157,6 +157,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
 - [Google style guide](http://code.google.com/p/google-styleguide/)
+- [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 - [SMACSS](http://smacss.com) - Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) - Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) - Block Element Modificator
