@@ -52,6 +52,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Tiny png](http://tinypng.org) - can make IE6 friendly PNGs
 - [IMGO](https://github.com/imgo/imgo) - image optimization tool
 - [JPEG compressor](http://www.jpegmini.com)
+- [Smush.it] (http://www.smushit.com/ysmush.it/) - online image optimization tool
 - [placehold.it](http://placehold.it)
 - [lorempixel](http://lorempixel.com)
 - [Sprite generator](http://spritepad.wearekiss.com)
@@ -165,7 +166,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [The Toolbox](http://www.thetoolbox.cc)
 - [humans.txt](http://humanstxt.org)
 - [robots.txt](http://www.robotstxt.org)
-- [Adobe Shadow](http://labs.adobe.com/technologies/shadow/)
+- [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
 - [Unicode Emoticons](http://unicodeemoticons.com)
 - [Special Characters Easy to Paste](http://copypastecharacter.com)
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
