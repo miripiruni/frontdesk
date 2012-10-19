@@ -174,7 +174,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [ipsum.me](http://ipsum.me)
 - [Schema.org](http://schema.org) - Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
 - [Microformats.org](http://microformats.org) - hcard, hcalendar and etc.
-- [base64 converter](http://www.greywyvern.com/code/php/binary2base64)
+- [base64 converter](http://www.greywyvern.com/code/php/binary2base64) (from url)
+- [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
+
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
