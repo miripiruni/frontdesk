@@ -129,6 +129,7 @@ Community driven list of useful things for front end developers. [How to contrib
     - [CSS to SASS](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
         - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
+        - [Compass Reference Browser](http://compass.aether.ru)
     - [sassmeister](http://sassmeister.com) - playground for Sass
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
