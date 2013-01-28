@@ -9,14 +9,14 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Chromium](http://code.google.com/p/chromium/issues/list)
 - [Webkit](http://www.webkit.org/quality/reporting.htm)
 
-## Mobile simulators 
-- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
-- [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
-    
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Opera Next](http://my.opera.com/desktopteam/blog/) on Desktop team blog
 
+## Mobile simulators 
+- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
+- [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
+    
 ## Where to download X of browser Y?
 
 
@@ -33,7 +33,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [refiddle](http://refiddle.com/)
 
 ## Misc
+- [Hyper Polyglot](http://hyperpolyglot.org/)
 - [jQuery Docs](http://docs.jquery.com/Main_Page)
+- [jQuery Cheatsheet](http://futurecolors.ru/jquery/)
 - [caniuse](http://caniuse.com/)
 - [mobilehtml5](http://mobilehtml5.org/)
 - [html5please](http://html5please.com/)
@@ -59,6 +61,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## CDN
 - [Google CDN](https://developers.google.com/speed/libraries/devguide)
 - [Yandex CDN](http://api.yandex.ru/jslibs/libs.xml)
+- [List of CDN`s](http://cdnjs.com/)
 
 ## Validators
 - [CSSLint](http://csslint.net)
