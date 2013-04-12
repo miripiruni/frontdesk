@@ -59,7 +59,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Favicon generator](http://www.favicon.cc)
 
 ## JS
-- [XML to JSON](XML to JSON http://jsontoxml.utilities-online.info)
+- [XML to JSON](http://jsontoxml.utilities-online.info)
 - [MicroJS](http://microjs.com)
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
