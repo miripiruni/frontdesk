@@ -119,7 +119,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Easing animation tool](http://matthewlein.com/ceaser/)
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
-- [cssdb.com](http://cssdb.co) — Popular CSS Libraries
+- [cssdb.co](http://cssdb.co) — Popular CSS Libraries
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
