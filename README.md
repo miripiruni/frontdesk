@@ -49,10 +49,10 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Img
 - [PNG compressor](http://www.punypng.com)
-- [Tiny png](http://tinypng.org) - can make IE6 friendly PNGs
-- [IMGO](https://github.com/imgo/imgo) - image optimization tool
+- [Tiny png](http://tinypng.org) — can make IE6 friendly PNGs
+- [IMGO](https://github.com/imgo/imgo) — image optimization tool
 - [JPEG compressor](http://www.jpegmini.com)
-- [Smush.it] (http://www.smushit.com/ysmush.it/) - online image optimization tool
+- [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
 - [placehold.it](http://placehold.it)
 - [lorempixel](http://lorempixel.com)
 - [Sprite generator](http://spritepad.wearekiss.com)
@@ -65,16 +65,16 @@ Community driven list of useful things for front end developers. [How to contrib
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 
 ## JS frameworks
-- [Backbone.js](http://backbonejs.org) - give your JS App some Backbone with Models, Views, Collections, and Events.
-- [Knockout](http://knockoutjs.com) - is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
-- [Knockback.js](http://kmalakoff.github.com/knockback/) - provides Knockout.js magic for Backbone.js Models and Collections.
+- [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
+- [Knockout](http://knockoutjs.com) — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
+- [Knockback.js](http://kmalakoff.github.com/knockback/) — provides Knockout.js magic for Backbone.js Models and Collections.
 - [AngularJS](http://angularjs.org)
 - [Ember.js](http://emberjs.com)
 - [CanJS](http://canjs.us)
-- [Spine](http://spinejs.com) - lightweight MVC library for building JavaScript applications.
-- [Batman.js](http://batmanjs.org) - is a framework for building rich single-page browser applications with CoffeeScript or JavaScript.
+- [Spine](http://spinejs.com) — lightweight MVC library for building JavaScript applications.
+- [Batman.js](http://batmanjs.org) — is a framework for building rich single-page browser applications with CoffeeScript or JavaScript.
 - [Dojo](http://dojotoolkit.org)
-- [Agility.js](http://agilityjs.com) - is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
+- [Agility.js](http://agilityjs.com) — is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
 - [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
 
 ## Testing frameworks
@@ -94,27 +94,27 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
 - [Handlebars](http://handlebarsjs.com)
 - [ICanHaz.js](http://icanhazjs.com)
-- [Hogan.js](http://twitter.github.com/hogan.js/) - JavaScript templating from Twitter.
+- [Hogan.js](http://twitter.github.com/hogan.js/) — JavaScript templating from Twitter.
 - [Jade](http://jade-lang.com)
 - [EJS](http://embeddedjs.com)
 - [JUST](https://github.com/baryshev/just)
 - [Closure Templates](http://code.google.com/p/closure-templates/)
-- [ECT](http://ectjs.com) - JavaScript template engine with CoffeeScript syntax
-- [Dust](http://akdubya.github.com/dustjs/) - Asynchronous templates for the browser and node.js
-- [TwigJS](https://github.com/fadrizul/twigjs) - A port of PHP template engine to JavaScript
-- [yate](https://github.com/pasaran/yate) - Yet Another Template Engine
+- [ECT](http://ectjs.com) — JavaScript template engine with CoffeeScript syntax
+- [Dust](http://akdubya.github.com/dustjs/) — Asynchronous templates for the browser and node.js
+- [TwigJS](https://github.com/fadrizul/twigjs) — A port of PHP template engine to JavaScript
+- [yate](https://github.com/pasaran/yate) — Yet Another Template Engine
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
 - [css3please](http://css3please.com)
 - [The CSS3 Test](http://css3test.com)
-- [CSScomb](http://csscomb.com) - tool for sorting CSS properties in specific order
-- [Procssor](http://procssor.com) - CSS Beautifier
+- [CSScomb](http://csscomb.com) — tool for sorting CSS properties in specific order
+- [Procssor](http://procssor.com) — CSS Beautifier
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
 - [normalize.css](http://necolas.github.com/normalize.css/)
 - [CSS Gradient finder](http://gradientfinder.com)
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor/)
-- [Sprite Cow](http://www.spritecow.com) - CSS Sprites
+- [Sprite Cow](http://www.spritecow.com) — CSS Sprites
 - [CSS3 Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com/all/)
 - [Easing animation tool](http://matthewlein.com/ceaser/)
 - [Cubic-Bezier](http://cubic-bezier.com)
@@ -130,22 +130,22 @@ Community driven list of useful things for front end developers. [How to contrib
     - [Compass](http://compass-style.org)
         - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
         - [Compass Reference Browser](http://compass.aether.ru)
-    - [sassmeister](http://sassmeister.com) - playground for Sass
+    - [sassmeister](http://sassmeister.com) — playground for Sass
 - [Stylus](http://learnboost.github.com/stylus/)
-    - [nib](http://visionmedia.github.com/nib/) - library for the Stylus, providing robust cross-browser CSS3 mixins
-- [xCSS](http://xcss.antpaw.org) - PHP based CSS preprocessor
+    - [nib](http://visionmedia.github.com/nib/) — library for the Stylus, providing robust cross-browser CSS3 mixins
+- [xCSS](http://xcss.antpaw.org) — PHP based CSS preprocessor
 
 ## CSS frameworks
 - [Twitter bootstrap](http://twitter.github.com/bootstrap/)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [YUI](http://yuilibrary.com)
 - [Blueprint CSS](http://www.blueprintcss.org)
-- [HTML5 boilerplate](http://html5boilerplate.com) - The web’s most popular front-end template
-- [HTML5 mobile boilerplate](http://html5boilerplate.com/mobile/) - A best practice baseline for your mobile web app
+- [HTML5 boilerplate](http://html5boilerplate.com) — The web’s most popular front-end template
+- [HTML5 mobile boilerplate](http://html5boilerplate.com/mobile/) — A best practice baseline for your mobile web app
 - [HTML5 Reset](http://html5reset.org) – One more boilerplate
 - [HTML Email boilerplate](http://htmlemailboilerplate.com)
 - [Initializr](http://www.initializr.com) — Choose your boilerplate
-- [960gs](http://960.gs) - CSS grids system framework
+- [960gs](http://960.gs) — CSS grids system framework
 - [The Semantic Grid System](http://semantic.gs)
 - [1140 CSS Grid](http://cssgrid.net)
 - [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
@@ -160,9 +160,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Github style guide](http://github.com/styleguide)
 - [Google style guide](http://code.google.com/p/google-styleguide/)
 - [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
-- [SMACSS](http://smacss.com) - Scalable and Modular Architecture for CSS
-- [OOCSS](http://oocss.org) - Object oriented CSS
-- [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) - Block Element Modificator
+- [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
+- [OOCSS](http://oocss.org) — Object oriented CSS
+- [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
 
 ## Misc
 - [caniuse](http://caniuse.com)
@@ -174,8 +174,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Special Characters Easy to Paste](http://copypastecharacter.com)
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [ipsum.me](http://ipsum.me)
-- [Schema.org](http://schema.org) - Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
-- [Microformats.org](http://microformats.org) - hcard, hcalendar and etc.
+- [Schema.org](http://schema.org) — Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
+- [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
 - [base64 converter](http://www.greywyvern.com/code/php/binary2base64) (from url)
 - [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
 - [pasteboard.co](http://pasteboard.co) — image sharing web app
@@ -188,10 +188,10 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Performance
 - [YUI JS, CSS compressor](http://www.refresh-sf.com/yui/)
-- [CSSO](http://afelix.github.com/csso/) - Cleaver css optimizer
-- [YSlow](http://developer.yahoo.com/yslow/) - Cross-browser plugin for page speed and performance testing
-- [Google page speed](https://developers.google.com/speed/pagespeed/) - Page speed measurement tools collection from Google
-- [Web page test](http://www.webpagetest.org) - Check page speed from multiple locations around the globe using real browsers
+- [CSSO](http://afelix.github.com/csso/) — Cleaver css optimizer
+- [YSlow](http://developer.yahoo.com/yslow/) — Cross-browser plugin for page speed and performance testing
+- [Google page speed](https://developers.google.com/speed/pagespeed/) — Page speed measurement tools collection from Google
+- [Web page test](http://www.webpagetest.org) — Check page speed from multiple locations around the globe using real browsers
 - [jsPerf — JavaScript performance playground](http://jsperf.com)
 
 ## CDN
@@ -215,22 +215,22 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSFontStack](http://cssfontstack.com)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
-- [Fontcustom](http://www.fontcustom.com) - command line utility to generate fonts from separate svg/eps files
+- [Fontcustom](http://www.fontcustom.com) — command line utility to generate fonts from separate svg/eps files
 - [Fontello](http://fontello.com) — easy way to combine selected icons from popular icons sets into custom made font
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
 
 ## OS X Apps
-- [ColorSnapper](http://colorsnapper.com) - easy-to-use tool for quickly finding out the color of any pixel on the screen
+- [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com)
 - [LiveReload](http://livereload.com)
 - [PixFit](http://splashsoftware.pl/pixfit/)
-- [xScope](http://xscopeapp.com) - for measuring, inspecting & testing on-screen graphics and layouts
+- [xScope](http://xscopeapp.com) — for measuring, inspecting & testing on-screen graphics and layouts
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
 - [ImageOptim](http://imageoptim.com)
 - [ImageAlpha](http://pngmini.com)
-- [BLESS CSS](http://blesscss.com) - fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
+- [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 
 ## Git
 - [GitHowTo](http://githowto.com)
