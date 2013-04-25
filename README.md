@@ -215,7 +215,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSSFontStack](http://cssfontstack.com)
 - [Font Squirrel](http://www.fontsquirrel.com)
 - [Google WebFonts](http://www.google.com/webfonts/)
-- [Fontello](http://fontello.com) — iconic fonts scissors
+- [Fontcustom](http://www.fontcustom.com) - command line utility to generate fonts from separate svg/eps files
+- [Fontello](http://fontello.com) — easy way to combine selected icons from popular icons sets into custom made font
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
 
