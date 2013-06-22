@@ -63,6 +63,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MicroJS](http://microjs.com)
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
 ## JS frameworks
 - [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
@@ -76,6 +77,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Dojo](http://dojotoolkit.org)
 - [Agility.js](http://agilityjs.com) — is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
 - [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
+- [Metro JS](http://www.drewgreenwell.com/projects/metrojs) - plugin for jQuery which enables the Modern UI interface on the web.
+- [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
 
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine/)
@@ -180,7 +183,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [base64 converter](http://www.greywyvern.com/code/php/binary2base64) (from url)
 - [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
 - [pasteboard.co](http://pasteboard.co) — image sharing web app
-
+- [Color Scheme Designer](http://colorschemedesigner.com/) - find resonate colors for a great design.
+- [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
