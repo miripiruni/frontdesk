@@ -141,6 +141,7 @@ Community driven list of useful things for front end developers. [How to contrib
         - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
         - [Compass Reference Browser](http://compass.aether.ru)
     - [sassmeister](http://sassmeister.com) — playground for Sass
+    - [Bourbon](http://bourbon.io) — A simple and lightweight mixin library for Sass. Also, [neat](http://neat.bourbon.io/).
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) — library for the Stylus, providing robust cross-browser CSS3 mixins
 - [xCSS](http://xcss.antpaw.org) — PHP based CSS preprocessor
