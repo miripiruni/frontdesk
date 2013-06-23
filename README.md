@@ -213,7 +213,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## CDN
 - [Google CDN](https://developers.google.com/speed/libraries/devguide)
 - [Yandex CDN](http://api.yandex.ru/jslibs/libs.xml)
-- [cdnjs](http://cdnjs.com)
+- [Microsoft CDN](http://www.asp.net/ajaxlibrary/cdn.ashx)
+- [cdnjs](http://cdnjs.com) — We host it all - JavaScript, CSS, SWF, images, etc
+
 
 ## Manuals
 - [jQuery Docs](http://docs.jquery.com)
