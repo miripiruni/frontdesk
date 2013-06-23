@@ -243,13 +243,13 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
-- [Gitbox](http://gitboxapp.com)
-- [LiveReload](http://livereload.com)
+- [Gitbox](http://gitboxapp.com) — version control as easy as Mail
+- [LiveReload](http://livereload.com) — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
 - [PixFit](http://splashsoftware.pl/pixfit/) — measure tool
 - [xScope](http://xscopeapp.com) — for measuring, inspecting & testing on-screen graphics and layouts
-- [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
+- [MAMP PRO](http://www.mamp.info/en/mamp-pro/) — Mac, Apache, MySQL and PHP
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
-- [ImageOptim](http://imageoptim.com)
+- [ImageOptim](http://imageoptim.com) — drag'n'drop UI and various optimisation tools
 - [ImageAlpha](http://pngmini.com) — converts 24-bit PNG to paletted 8-bit with full alpha channel
 - [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) — a nice diff tool
