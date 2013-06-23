@@ -144,6 +144,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Stylus](http://learnboost.github.com/stylus/)
     - [nib](http://visionmedia.github.com/nib/) — library for the Stylus, providing robust cross-browser CSS3 mixins
 - [xCSS](http://xcss.antpaw.org) — PHP based CSS preprocessor
+- [Roole](http://roole.org/) — a language that compiles to CSS
+- [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
 
 ## CSS frameworks
 - [Twitter bootstrap](http://twitter.github.com/bootstrap/)
