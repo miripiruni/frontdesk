@@ -171,6 +171,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
+- [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 
 ## Misc
 - [caniuse](http://caniuse.com)
