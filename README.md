@@ -7,7 +7,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.html)
+- [WebKit](http://www.webkit.org/quality/reporting.html)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
@@ -17,7 +17,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Internet Explorer 10](http://ie.microsoft.com/TESTdrive/)
 - [Opera Next Beta](http://www.opera.com/browser/next/), [Opera Next Labs](http://dev.opera.com/labs/), [Opera Next Nightly](http://my.opera.com/desktopteam/blog/)
-- [Webkit Nightly](http://nightly.webkit.org)
+- [WebKit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 
 ## Where to download version X of browser Y?
