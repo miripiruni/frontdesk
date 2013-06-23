@@ -56,6 +56,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
+- [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 
 ## JS
 - [XML to JSON](http://jsontoxml.utilities-online.info)
