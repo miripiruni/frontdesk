@@ -51,7 +51,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [IMGO](https://github.com/imgo/imgo) — image optimization tool
 - [SVGO](https://github.com/svg/svgo) — SVG optimization tool
 - [JPEG compressor](http://www.jpegmini.com) — your photos on a diet
-- [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
+- [Smush.it](http://www.smushit.com/ysmush.it/) — online image optimization tool
 - [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [placekitten](http://placekitten.com/) & [placeboobs](http://placeboobs.com/)
 - [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
