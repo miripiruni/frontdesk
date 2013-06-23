@@ -128,6 +128,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [cssdb.co](http://cssdb.co) — Popular CSS Libraries
 - [Helium](https://github.com/geuis/helium-css) — JavaScript tool to scan your site and show unused CSS
 - [Media Query Builder](http://arcsec.ca/media-query-builder/)
+- [The Responsinator](http://www.responsinator.com) — helps to see responsive site will look on the most popular devices
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
