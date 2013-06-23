@@ -180,7 +180,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Misc
 - [caniuse](http://caniuse.com)
-- [The Toolbox](http://www.thetoolbox.cc)
+- [The Toolbox](http://www.thetoolbox.cc) — a collection of the best time-saving apps, tools, and widgets from around the web
 - [humans.txt](http://humanstxt.org)
 - [robots.txt](http://www.robotstxt.org)
 - [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
