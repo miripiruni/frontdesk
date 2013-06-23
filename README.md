@@ -66,7 +66,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
 ## JS frameworks
-- [TodoMVC](http://todomvc.com/) — helping you select an MV* framework.
+- [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
 - [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
 - [Knockout](http://knockoutjs.com) — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
 - [Knockback.js](http://kmalakoff.github.com/knockback/) — provides Knockout.js magic for Backbone.js Models and Collections.
