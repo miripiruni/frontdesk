@@ -7,17 +7,17 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Opera](https://bugs.opera.com)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
-- [Webkit](http://www.webkit.org/quality/reporting.html)
+- [WebKit](http://www.webkit.org/quality/reporting.html)
 
 ## Mobile simulators
-- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
+- [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
 - [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Internet Explorer 10](http://ie.microsoft.com/TESTdrive/)
-- [Opera Next Beta](http://www.opera.com/browser/next/), [Opera Next Labs](http://dev.opera.com/labs/), [Opera Next Nightly](http://my.opera.com/desktopteam/blog/)
-- [Webkit Nightly](http://nightly.webkit.org)
+- [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
+- [WebKit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 
 ## Where to download version X of browser Y?
@@ -51,7 +51,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [IMGO](https://github.com/imgo/imgo) — image optimization tool
 - [SVGO](https://github.com/svg/svgo) — SVG optimization tool
 - [JPEG compressor](http://www.jpegmini.com) — your photos on a diet
-- [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
+- [Smush.it](http://www.smushit.com/ysmush.it/) — online image optimization tool
 - [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [placekitten](http://placekitten.com/) & [placeboobs](http://placeboobs.com/)
 - [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
