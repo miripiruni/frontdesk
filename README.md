@@ -245,7 +245,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com)
 - [LiveReload](http://livereload.com)
-- [PixFit](http://splashsoftware.pl/pixfit/)
+- [PixFit](http://splashsoftware.pl/pixfit/) — measure tool
 - [xScope](http://xscopeapp.com) — for measuring, inspecting & testing on-screen graphics and layouts
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/)
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
