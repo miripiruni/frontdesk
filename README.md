@@ -221,6 +221,11 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
 
+## CLI Apps
+- [Grunt](http://gruntjs.com) - Javascript task runner
+- [Yeoman](http://yeoman.io) - Developer workflow
+- [Bower](http://bower.io) - Javascript package manager
+
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com)
