@@ -223,9 +223,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Validators
 - [W3C HTML Validator](http://validator.w3.org)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
-- [CSSLint](http://csslint.net)
-- [JSLint](http://jslint.com)
-- [JSHint](http://jshint.com)
+- [CSSLint](http://csslint.net) — static analysis tool for CSS code
+- [JSLint](http://jslint.com) — The JavaScript Code Quality Tool by Douglas Crockford
+- [JSHint](http://jshint.com) — community-driven tool to detect errors and potential problems in JavaScript code
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com)
