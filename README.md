@@ -51,6 +51,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [PNG compressor](http://www.punypng.com)
 - [Tiny png](http://tinypng.org) — can make IE6 friendly PNGs
 - [IMGO](https://github.com/imgo/imgo) — image optimization tool
+- [SVGO](https://github.com/svg/svgo) — SVG optimization tool
 - [JPEG compressor](http://www.jpegmini.com)
 - [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
 - [placehold.it](http://placehold.it)
