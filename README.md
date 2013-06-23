@@ -10,13 +10,13 @@ Community driven list of useful things for front end developers. [How to contrib
 - [WebKit](http://www.webkit.org/quality/reporting.html)
 
 ## Mobile simulators
-- [Opera Mini](http://www.opera.com/developer/tools/mini/), [Opera Mobile](http://www.opera.com/developer/tools/mobile/)
+- [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
 - [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Internet Explorer 10](http://ie.microsoft.com/TESTdrive/)
-- [Opera Next Beta](http://www.opera.com/browser/next/), [Opera Next Labs](http://dev.opera.com/labs/), [Opera Next Nightly](http://my.opera.com/desktopteam/blog/)
+- [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 - [WebKit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 
