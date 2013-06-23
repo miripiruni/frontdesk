@@ -52,7 +52,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [SVGO](https://github.com/svg/svgo) — SVG optimization tool
 - [JPEG compressor](http://www.jpegmini.com) — your photos on a diet
 - [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
-- [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [http://placekitten.com/](placekitten) & [http://placeboobs.com/](placeboobs)
+- [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [placekitten](http://placekitten.com/) & [placeboobs](http://placeboobs.com/)
 - [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
@@ -253,7 +253,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [ImageAlpha](http://pngmini.com)
 - [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) — a nice diff tool
-- Dash —
+- [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
 
 ## Git
 - [GitHowTo](http://githowto.com)
