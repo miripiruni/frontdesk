@@ -131,6 +131,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Stylie](http://jeremyckahn.github.io/stylie/) — A fun CSS animation tool
 - [autoprefixer](https://github.com/ai/autoprefixer) — Parse CSS and add prefixed properties and values by actual Can I Use database
 - [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
+- [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
+- [DPI Love](http://dpi.lv) - Calculation DPI of devices.
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
