@@ -87,6 +87,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [wru](https://github.com/WebReflection/wru.git)
 
 ## HTML
+- [HTML5 Rocks](http://html5rocks.com)
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
 
