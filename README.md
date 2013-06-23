@@ -56,7 +56,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
 - [placehold.it](http://placehold.it)
 - [lorempixel](http://lorempixel.com)
-- [Sprite generator](http://spritepad.wearekiss.com)
+- [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
 - [Favicon generator](http://www.favicon.cc)
 
 ## JS
