@@ -15,7 +15,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
-- [IE 10](http://ie.microsoft.com/TESTdrive/)
+- [Internet Explorer 10](http://ie.microsoft.com/TESTdrive/)
 - [Opera Next Beta](http://www.opera.com/browser/next/), [Opera Next Labs](http://dev.opera.com/labs/), [Opera Next Nightly](http://my.opera.com/desktopteam/blog/)
 - [Webkit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
@@ -38,30 +38,28 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 
 ## Code snippets
-- [Dabblet](http://dabblet.com)
-- [JSBin](http://jsbin.com)
-- [gist.github](https://gist.github.com)
-- [JSFiddle](http://jsfiddle.net)
-- [CodePen](http://codepen.io)
-- [refiddle](http://refiddle.com)
-- [RegExr](http://gskinner.com/RegExr/)
-- [CSS-Tricks snippets](http://css-tricks.com/snippets/)
+- [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
+- [JSBin](http://jsbin.com) — JavaScript, HTML and CSS playground
+- [gist.github](https://gist.github.com) — code snippets
+- [JSFiddle](http://jsfiddle.net) — JavaScript, HTML and CSS playground
+- [CodePen](http://codepen.io) — Another JS, HTML, CSS sandbox
+- [RegExr](http://gskinner.com/RegExr/) — regular expression playground 
 
 ## Img
 - [PNG compressor](http://www.punypng.com)
 - [Tiny png](http://tinypng.org) — can make IE6 friendly PNGs
 - [IMGO](https://github.com/imgo/imgo) — image optimization tool
 - [SVGO](https://github.com/svg/svgo) — SVG optimization tool
-- [JPEG compressor](http://www.jpegmini.com)
+- [JPEG compressor](http://www.jpegmini.com) — your photos on a diet
 - [Smush.it] (http://www.smushit.com/ysmush.it/) — online image optimization tool
-- [placehold.it](http://placehold.it)
-- [lorempixel](http://lorempixel.com)
+- [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [http://placekitten.com/](placekitten) & [http://placeboobs.com/](placeboobs)
+- [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
-- [Favicon generator](http://www.favicon.cc)
+- [Favicon generator](http://www.favicon.cc) — draw your favicon
 
 ## JS
 - [XML to JSON](http://jsontoxml.utilities-online.info)
-- [MicroJS](http://microjs.com)
+- [MicroJS](http://microjs.com) — helps you discover the most compact-but-powerful microframeworks
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
@@ -70,7 +68,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
 - [Knockout](http://knockoutjs.com) — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
 - [Knockback.js](http://kmalakoff.github.com/knockback/) — provides Knockout.js magic for Backbone.js Models and Collections.
-- [AngularJS](http://angularjs.org)
+- [AngularJS](http://angularjs.org) 
 - [Ember.js](http://emberjs.com)
 - [CanJS](http://canjs.us)
 - [Spine](http://spinejs.com) — lightweight MVC library for building JavaScript applications.
@@ -130,6 +128,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Media Query Builder](http://arcsec.ca/media-query-builder/)
 - [The Responsinator](http://www.responsinator.com) — helps to see responsive site will look on the most popular devices
 - [Stylie](http://jeremyckahn.github.io/stylie/) — A fun CSS animation tool
+- [autoprefixer](https://github.com/ai/autoprefixer) — Parse CSS and add prefixed properties and values by actual Can I Use database
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
@@ -196,6 +195,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [pasteboard.co](http://pasteboard.co) — image sharing web app
 - [Color Scheme Designer](http://colorschemedesigner.com/) - find resonate colors for a great design.
 - [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
+- [CSS-Tricks snippets](http://css-tricks.com/snippets/) — useful code snippets
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
@@ -252,6 +252,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [ImageOptim](http://imageoptim.com)
 - [ImageAlpha](http://pngmini.com)
 - [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
+- [Kaleidoscope](http://www.kaleidoscopeapp.com/) — a nice diff tool
+- Dash —
 
 ## Git
 - [GitHowTo](http://githowto.com)
