@@ -129,6 +129,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [The Responsinator](http://www.responsinator.com) — helps to see responsive site will look on the most popular devices
 - [Stylie](http://jeremyckahn.github.io/stylie/) — A fun CSS animation tool
 - [autoprefixer](https://github.com/ai/autoprefixer) — Parse CSS and add prefixed properties and values by actual Can I Use database
+- [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
