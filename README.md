@@ -110,8 +110,8 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
-- [css3please](http://css3please.com)
-- [The CSS3 Test](http://css3test.com)
+- [css3please](http://css3please.com) — The Cross-Browser CSS3 Rule Generator
+- [The CSS3 Test](http://css3test.com) — check your browser!
 - [CSScomb](http://csscomb.com) — tool for sorting CSS properties in specific order
 - [Procssor](http://procssor.com) — CSS Beautifier
 - [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
