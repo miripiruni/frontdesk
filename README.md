@@ -174,6 +174,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [OOCSS](http://oocss.org) — Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
+- [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 
 ## Misc
 - [caniuse](http://caniuse.com)
