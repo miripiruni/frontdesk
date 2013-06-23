@@ -126,6 +126,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
 - [cssdb.co](http://cssdb.co) — Popular CSS Libraries
+- [Helium](https://github.com/geuis/helium-css) — JavaScript tool to scan your site and show unused CSS
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
