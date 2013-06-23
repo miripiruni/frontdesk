@@ -92,6 +92,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## HTML
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
+- [DirtyMarkup](http://www.dirtymarkup.com) - Quick/easy HTML auto formatting
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
