@@ -235,6 +235,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [RECSS](http://twitter.github.com/recess) — A simple and attractive code quality tool for CSS built on top of LESS
 - [JSLint](http://jslint.com) — The JavaScript Code Quality Tool by Douglas Crockford
 - [JSHint](http://jshint.com) — community-driven tool to detect errors and potential problems in JavaScript code
+- [JSCS](https://github.com/mdevils/node-jscs) — JavaScript Code Style checker
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com)
