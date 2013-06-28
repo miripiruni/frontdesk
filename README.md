@@ -186,6 +186,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Misc
 - [caniuse](http://caniuse.com)
+- [jquer.in](http://jquer.in) - A collection of jQuery plugins organized according to their category.
 - [The Toolbox](http://www.thetoolbox.cc) — a collection of the best time-saving apps, tools, and widgets from around the web
 - [humans.txt](http://humanstxt.org)
 - [robots.txt](http://www.robotstxt.org)
