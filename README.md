@@ -36,6 +36,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Firebug](http://getfirebug.com)
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
+- [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
@@ -224,6 +225,7 @@ Community driven list of useful things for front end developers. [How to contrib
 
 ## Manuals
 - [jQuery Docs](http://docs.jquery.com)
+- [Try jQuery](http://try.jquery.com/)
 - [MDN](https://developer.mozilla.org)
 - [CSS, HTML, JavaScript, DOM, jQuery, PHP, Python](http://dochub.io)
 
@@ -268,3 +270,4 @@ Community driven list of useful things for front end developers. [How to contrib
 - [GitHowTo](http://githowto.com)
 - [Pro Git](http://git-scm.com/book)
 - [Try Git](http://try.github.com)
+- [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
