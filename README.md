@@ -228,7 +228,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [jQuery Docs](http://docs.jquery.com)
 - [Try jQuery](http://try.jquery.com/)
 - [MDN](https://developer.mozilla.org)
-- [CSS, HTML, JavaScript, DOM, jQuery, PHP, Python](http://dochub.io)
+- [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
+- [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
