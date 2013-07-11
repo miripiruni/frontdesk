@@ -31,6 +31,9 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Safari](http://support.apple.com/downloads/#safari)
 - Chromium:
     - [All builds](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html)
+- Internet Explorer:
+    - [IE 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)
+    - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
@@ -203,6 +206,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Color Scheme Designer](http://colorschemedesigner.com/) - find resonate colors for a great design.
 - [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 - [CSS-Tricks snippets](http://css-tricks.com/snippets/) — useful code snippets
+- [TypeScript](http://www.typescriptlang.org/)
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
