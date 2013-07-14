@@ -66,6 +66,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [XML to JSON](http://jsontoxml.utilities-online.info)
 - [MicroJS](http://microjs.com) — helps you discover the most compact-but-powerful microframeworks
 - [JavaScript Beautifier](http://jsbeautifier.org)
+- [pro.jsonlint.com](http://pro.jsonlint.com) — pro version of jsonlint.com
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
@@ -234,6 +235,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [MDN](https://developer.mozilla.org)
 - [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
 - [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
+- [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
