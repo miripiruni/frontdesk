@@ -114,6 +114,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Dust](http://akdubya.github.com/dustjs/) — Asynchronous templates for the browser and node.js
 - [TwigJS](https://github.com/fadrizul/twigjs) — A port of PHP template engine to JavaScript
 - [yate](https://github.com/pasaran/yate) — Yet Another Template Engine
+- [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
@@ -208,6 +209,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 - [CSS-Tricks snippets](http://css-tricks.com/snippets/) — useful code snippets
 - [TypeScript](http://www.typescriptlang.org/)
+- [JSDB.io](http://www.jsdb.io) - The Database of JavaScript Libraries
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
