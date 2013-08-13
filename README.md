@@ -47,7 +47,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [gist.github](https://gist.github.com) — code snippets
 - [JSFiddle](http://jsfiddle.net) — JavaScript, HTML and CSS playground
 - [CodePen](http://codepen.io) — Another JS, HTML, CSS sandbox
-- [RegExr](http://gskinner.com/RegExr/) — regular expression playground 
+- [RegExr](http://gskinner.com/RegExr/) — regular expression playground
 
 ## Img
 - [PNG compressor](http://www.punypng.com)
@@ -75,7 +75,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
 - [Knockout](http://knockoutjs.com) — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
 - [Knockback.js](http://kmalakoff.github.com/knockback/) — provides Knockout.js magic for Backbone.js Models and Collections.
-- [AngularJS](http://angularjs.org) 
+- [AngularJS](http://angularjs.org)
 - [Ember.js](http://emberjs.com)
 - [CanJS](http://canjs.us)
 - [Spine](http://spinejs.com) — lightweight MVC library for building JavaScript applications.
@@ -275,6 +275,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) — a nice diff tool
 - [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
+- [Ghostlab](http://vanamco.com/ghostlab/) - responsive development workflow tool that allows for synchronized testing of your web app across multiple devices - similar to Edge Inspect
 
 ## Git
 - [GitHowTo](http://githowto.com)
