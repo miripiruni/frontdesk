@@ -85,6 +85,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
 - [Metro JS](http://www.drewgreenwell.com/projects/metrojs) - plugin for jQuery which enables the Modern UI interface on the web.
 - [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
+- [Ractive.js](http://www.ractivejs.org) - approachable library providing data binding, efficient DOM updates, event handling
 
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine/)
