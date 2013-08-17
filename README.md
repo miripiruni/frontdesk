@@ -45,6 +45,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
 - [JSBin](http://jsbin.com) — JavaScript, HTML and CSS playground
 - [gist.github](https://gist.github.com) — code snippets
+- [GitLab Snippets](https://gitlab.com/snippets) - code snippets
 - [JSFiddle](http://jsfiddle.net) — JavaScript, HTML and CSS playground
 - [CodePen](http://codepen.io) — Another JS, HTML, CSS sandbox
 - [RegExr](http://gskinner.com/RegExr/) — regular expression playground
