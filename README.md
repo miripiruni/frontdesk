@@ -211,6 +211,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSS-Tricks snippets](http://css-tricks.com/snippets/) — useful code snippets
 - [TypeScript](http://www.typescriptlang.org/)
 - [JSDB.io](http://www.jsdb.io) - The Database of JavaScript Libraries
+- [Prepros](http://alphapixels.com/prepros) — CSS/JS preprocessor(LESS, Sass, SCSS, Stylus, Jade, Slim, CoffeeScript, LiveScript, Haml and Markdown), minifier and image optimization
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
