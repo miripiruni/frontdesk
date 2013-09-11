@@ -40,6 +40,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Firebug](http://getfirebug.com)
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 - [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
+- [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and yeoman.
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
@@ -181,9 +182,16 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Frameless grid](http://framelessgrid.com)
 - [Kube](http://imperavi.com/kube/)
 
+## Platforms for building web app
+- [Meteor](http://www.meteor.com/) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+- [Google Apps Script](http://www.google.com/script/start/) - Build web apps and automate tasks with Google Apps Script
+
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
 - [Google style guide](http://code.google.com/p/google-styleguide/)
+- [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
+- [Dojo Style Guide](https://dojotoolkit.org/community/styleGuide)
+- [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js/)
 - [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
@@ -240,6 +248,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
 - [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 - [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
+- [Superherojs.com](http://superherojs.com/) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
+- [JSBooks](http://jsbooks.revolunet.com/) - JSBooks the best free JavaScript books/resources
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
@@ -262,7 +272,10 @@ Community driven list of useful things for front end developers. [How to contrib
 ## CLI Apps
 - [Grunt](http://gruntjs.com) - Javascript task runner
 - [Yeoman](http://yeoman.io) - Developer workflow
+- [Brunch](http://brunch.io/) - Brunch is an assembler for HTML5 applications
 - [Bower](http://bower.io) - Javascript package manager
+- [Jam](http://jamjs.org/) - Jam is a package manager for JavaScript
+- [Component](https://github.com/component/component) - Component package manager for building a better web
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
@@ -284,3 +297,4 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Pro Git](http://git-scm.com/book)
 - [Try Git](http://try.github.com)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
+- [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
