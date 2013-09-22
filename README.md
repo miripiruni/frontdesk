@@ -61,6 +61,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [placekitten](http://placekitten.com/) & [placeboobs](http://placeboobs.com/)
 - [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
+- [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) — Favicon Cheat Sheet
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 
