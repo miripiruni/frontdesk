@@ -26,7 +26,6 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
-*   [The Django Book](http://www.djangobook.com/en/2.0/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
