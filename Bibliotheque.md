@@ -7,7 +7,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
 *   [Git Immersion](http://gitimmersion.com/)
-*   [Pro Git](http://progit.org/book/)
+*   [Pro Git](http://progit.org/book/) ([ru](http://git-scm.com/book/ru/))
 *   [Git how to](http://githowto.com/) ([ru](http://githowto.com/ru))
 *   [The Git Community Book](http://book.git-scm.com/)
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
