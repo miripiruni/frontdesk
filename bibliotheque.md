@@ -39,10 +39,10 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
 
 ## Node.js
-*   [Делаем веб приложение на Node.js](http://nodeguide.ru/doc/dailyjs-nodepad/#)
+*   [Node Guide](http://nodeguide.com/) ([ru](http://nodeguide.ru/doc/dailyjs-nodepad/#))
 
 ## Business
-*   [Getting Real](http://gettingreal.37signals.com/) [ru](http://gettingreal.37signals.com/GR_rus.php#ch01)
+*   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
 
 ## Mercurial
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
