@@ -33,7 +33,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Edward Tufte](http://edwardtufte.ru/)
 
 ## MongoDB
-*   [The Little MongoDB Book](http://express-js.ru/mongo-book/index.html)
+*   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
 
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
