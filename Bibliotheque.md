@@ -7,7 +7,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
 *   [Git Immersion](http://gitimmersion.com/)
-*   [Pro Git](http://progit.org/book/)
+*   [Pro Git](http://progit.org/book/) ([ru](http://git-scm.com/book/ru/))
 *   [Git how to](http://githowto.com/) ([ru](http://githowto.com/ru))
 *   [The Git Community Book](http://book.git-scm.com/)
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
@@ -15,6 +15,9 @@ Community driven list of *free online books and manuals* for front-end developer
 ## SVN
 *   [SVN how to](http://svnhowto.com/)
 *   [ Version Control with Subversion](http://svnbook.red-bean.com/index.en.html)
+
+## Mercurial
+*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
@@ -26,14 +29,13 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
-*   [The Django Book](http://www.djangobook.com/en/2.0/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 *   [Edward Tufte](http://edwardtufte.ru/)
 
 ## MongoDB
-*   [The Little MongoDB Book](http://express-js.ru/mongo-book/index.html)
+*   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
 
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
@@ -43,9 +45,6 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
-
-## Mercurial
-*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 
 ## Ruby
 *   [Ruby Monk](http://rubymonk.com/)
@@ -66,3 +65,4 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Haskell
 *   [Learn You Haskell](http://learnyouahaskell.com/chapters)
+
