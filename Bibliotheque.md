@@ -68,3 +68,5 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Haskell
 *   [Learn You Haskell](http://learnyouahaskell.com/chapters)
 
+## Erlang
+*   [Learn You Some Erlang](http://learnyousomeerlang.com/)
