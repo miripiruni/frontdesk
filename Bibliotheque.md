@@ -18,6 +18,7 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Mercurial
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
+*   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/)
 
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
@@ -29,6 +30,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+*   [Dive into Python 3](http://www.diveinto.org/python3/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
