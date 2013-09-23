@@ -16,6 +16,9 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [SVN how to](http://svnhowto.com/)
 *   [ Version Control with Subversion](http://svnbook.red-bean.com/index.en.html)
 
+## Mercurial
+*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
+
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
 
@@ -42,9 +45,6 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
-
-## Mercurial
-*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 
 ## Ruby
 *   [Ruby Monk](http://rubymonk.com/)
