@@ -1,6 +1,6 @@
 # Bibliotheque
 
-Community driven list of free online books and manuals for front end developers. How to contribute?
+Community driven list of free online books and manuals for front end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
