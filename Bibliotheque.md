@@ -29,6 +29,10 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 *   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
+## CoffeeScript
+*   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
+*   [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
+
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
