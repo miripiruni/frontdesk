@@ -26,6 +26,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
