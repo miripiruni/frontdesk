@@ -11,6 +11,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Git how to](http://githowto.com/) ([ru](http://githowto.com/ru))
 *   [The Git Community Book](http://book.git-scm.com/)
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+*   [Version Control for Designers](http://hoth.entp.com/output/git_for_designers.html)
 
 ## SVN
 *   [SVN how to](http://svnhowto.com/)
