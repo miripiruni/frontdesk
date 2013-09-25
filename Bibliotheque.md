@@ -45,6 +45,9 @@ Community driven list of *free online books and manuals* for front-end developer
 ## MongoDB
 *   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
 
+## Redis
+*   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
+
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
 
