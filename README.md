@@ -249,7 +249,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
 - [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 - [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
-- [Bento](http://www.bentobox.io/) — Everything you need to know about web development. Neatly packaged.
+- [Bento](http://www.bentobox.io) — Everything you need to know about web development. Neatly packaged.
 - [Superherojs.com](http://superherojs.com/) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 - [JSBooks](http://jsbooks.revolunet.com/) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org/) - Open community of developers building resources for a better web, regardless of brand, browser or platform
@@ -281,6 +281,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Component](https://github.com/component/component) - Component package manager for building a better web
 
 ## OS X Apps
+- [Google Web Designer (Beta)](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com) — version control as easy as Mail
 - [LiveReload](http://livereload.com) — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
