@@ -281,7 +281,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Component](https://github.com/component/component) - Component package manager for building a better web
 
 ## OS X Apps
-- [Google Web Designer (Beta)](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
+- [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com) — version control as easy as Mail
 - [LiveReload](http://livereload.com) — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
