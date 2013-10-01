@@ -300,3 +300,4 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Try Git](http://try.github.com)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
 - [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
+- [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
