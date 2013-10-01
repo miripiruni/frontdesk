@@ -61,6 +61,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Ruby
 *   [Ruby Monk](http://rubymonk.com/)
 *   [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+*   [Codeacademy: Course Ruby](http://www.codecademy.com/ru/tracks/ruby)
 
 ## Vim
 *   [Open Vim](http://www.openvim.com/)
