@@ -23,6 +23,7 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## HTTP
 *   [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
 
