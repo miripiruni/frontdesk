@@ -44,6 +44,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [JSFiddle](http://jsfiddle.net)
 - [CodePen](http://codepen.io)
 - [refiddle](http://refiddle.com)
+- [PHPsnips](http://www.phpsnips.com)
 - [RegExr](http://gskinner.com/RegExr/)
 - [CSS-Tricks snippets](http://css-tricks.com/snippets/)
 
