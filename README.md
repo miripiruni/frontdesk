@@ -143,6 +143,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
 - [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
+- [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
