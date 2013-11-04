@@ -182,6 +182,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [baseline](http://baselinecss.com)
 - [Frameless grid](http://framelessgrid.com)
 - [Kube](http://imperavi.com/kube/)
+- [Topcoat](http://topcoat.io)
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com/) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
