@@ -30,7 +30,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) ([ru](http://bonsaiden.github.io/JavaScript-Garden/ru/))
 
 ## CoffeeScript
 *   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
