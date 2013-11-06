@@ -58,6 +58,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Node Guide](http://nodeguide.com/) ([ru](http://nodeguide.ru/doc/dailyjs-nodepad/#))
 *   [Mixu's Node book](http://book.mixu.net/node/)
 *   [The Node Beginner Book](http://www.nodebeginner.org) ([ru](http://www.nodebeginner.ru))
+*   [Node.js for Beginners — Tuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
 
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
