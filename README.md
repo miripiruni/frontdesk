@@ -143,6 +143,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
 - [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
+- [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
@@ -182,6 +183,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [baseline](http://baselinecss.com)
 - [Frameless grid](http://framelessgrid.com)
 - [Kube](http://imperavi.com/kube/)
+- [Topcoat](http://topcoat.io)
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com/) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
@@ -303,3 +305,4 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
 - [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 - [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
+- [Githug](https://github.com/gazler/githug) — Git Your Game On
