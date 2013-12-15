@@ -148,6 +148,12 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
 - [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
+- [CSS3 Generator](http://css3generator.com/)
+- [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+- [:nth Tester](http://css-tricks.com/examples/nth-child-tester/)
+- [The CSS3 test](http://css3test.com/)
+- [The 3D CSS text generator](http://3dcsstext.com/)
+- [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
