@@ -104,6 +104,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
 - [DirtyMarkup](http://www.dirtymarkup.com) - Quick/easy HTML auto formatting
+- [HTML5Pattern](http://html5pattern.com/) - HTML5Pattern is a source of regularly used Input-Patterns.
+- [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
+- [(X)HTML5 Validator](http://html5.validator.nu/)
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
