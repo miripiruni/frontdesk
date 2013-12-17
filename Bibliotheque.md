@@ -26,7 +26,7 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
-*   [HTML5 for Web designers](http://myuuu.fr/livre/HTML5forWebDesigners.pdf)
+*   [HTML5 for Web designers (PDF file, 2Mb)](http://myuuu.fr/livre/HTML5forWebDesigners.pdf)
 
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
