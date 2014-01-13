@@ -34,6 +34,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - Internet Explorer:
     - [IE 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)
     - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
+- [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
