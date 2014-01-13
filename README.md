@@ -287,6 +287,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## CLI Apps
 - [Grunt](http://gruntjs.com) - Javascript task runner
+- [Gulp](http://gulpjs.com/) - Javascript task runner based on node streams
 - [Yeoman](http://yeoman.io) - Developer workflow
 - [Brunch](http://brunch.io/) - Brunch is an assembler for HTML5 applications
 - [Bower](http://bower.io) - Javascript package manager
