@@ -104,6 +104,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
 - [DirtyMarkup](http://www.dirtymarkup.com) - Quick/easy HTML auto formatting
+- [HTML5Pattern](http://html5pattern.com/) - HTML5Pattern is a source of regularly used Input-Patterns.
+- [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
+- [(X)HTML5 Validator](http://html5.validator.nu/)
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
@@ -145,6 +148,12 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
 - [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
+- [CSS3 Generator](http://css3generator.com/)
+- [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+- [:nth Tester](http://css-tricks.com/examples/nth-child-tester/)
+- [The CSS3 test](http://css3test.com/)
+- [The 3D CSS text generator](http://3dcsstext.com/)
+- [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
