@@ -175,7 +175,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
 
 ## CSS frameworks
-- [Twitter bootstrap](http://twitter.github.com/bootstrap/)
+- [Twitter bootstrap](http://getbootstrap.com/)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [YUI](http://yuilibrary.com)
 - [Blueprint CSS](http://www.blueprintcss.org)
