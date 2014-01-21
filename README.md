@@ -64,6 +64,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) — Favicon Cheat Sheet
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
+- [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 
 ## JS
