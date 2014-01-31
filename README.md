@@ -34,10 +34,12 @@ Community driven list of useful things for front-end developers. [How to contrib
 - Internet Explorer:
     - [IE 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)
     - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
+    - [Any version](http://loc.modern.ie/virtualization-tools#downloads) - Any version of IE on any Windows version, free VM images
 - [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
+- [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) - useful tool for RESTful APIs
 - [Firebug](http://getfirebug.com)
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 - [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
@@ -286,6 +288,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Fontello](http://fontello.com) — easy way to combine selected icons from popular icons sets into custom made font
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome) - The iconic font designed for Bootstrap
 
 ## CLI Apps
 - [Grunt](http://gruntjs.com) - Javascript task runner
@@ -295,6 +298,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Bower](http://bower.io) - Javascript package manager
 - [Jam](http://jamjs.org/) - Jam is a package manager for JavaScript
 - [Component](https://github.com/component/component) - Component package manager for building a better web
+- [Karma test runner](http://karma-runner.github.io/0.10/index.html) - Spectacular test runner for Javascript
 
 ## OS X Apps
 - [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
