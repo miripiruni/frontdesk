@@ -76,6 +76,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [pro.jsonlint.com](http://pro.jsonlint.com) — pro version of jsonlint.com
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
+- [Oboe.js](http://oboejs.com/) - Streaming JSON loading for Node and browsers
+- [Polymer](http://www.polymer-project.org/) - Polymer is a library that uses the latest web technologies to let you create custom HTML elements
+- [x-tags](http://www.x-tags.org/) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
@@ -102,6 +105,13 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
 - [D.O.H.](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
 - [wru](https://github.com/WebReflection/wru.git)
+- [sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript
+- [protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
+
+## Assertion libraries
+- [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
+- [expect.js](https://github.com/LearnBoost/expect.js/) - Minimalistic BDD-style assertions for Node.JS and the browser
+- [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js
 
 ## HTML
 - [HTML5 Rocks](http://html5rocks.com)
@@ -125,6 +135,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Dust](http://akdubya.github.com/dustjs/) — Asynchronous templates for the browser and node.js
 - [TwigJS](https://github.com/fadrizul/twigjs) — A port of PHP template engine to JavaScript
 - [yate](https://github.com/pasaran/yate) — Yet Another Template Engine
+    - [yate.io](http://maksimr.github.io/yate/) — Playground for Yate
 - [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
 
 ## CSS
@@ -298,7 +309,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Bower](http://bower.io) - Javascript package manager
 - [Jam](http://jamjs.org/) - Jam is a package manager for JavaScript
 - [Component](https://github.com/component/component) - Component package manager for building a better web
-- [Karma test runner](http://karma-runner.github.io/0.10/index.html) - Spectacular test runner for Javascript
+- [Karma test runner](http://karma-runner.github.io/) - Spectacular test runner for Javascript
+- [browser-repl](https://github.com/cloudup/browser-repl) - Launch a repl on your command line to any browser in the cloud
 
 ## OS X Apps
 - [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
