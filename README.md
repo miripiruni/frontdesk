@@ -44,6 +44,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 - [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
 - [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and yeoman.
+- [Live HTTP Headers](http://livehttpheaders.mozdev.org/) — Provides information about the HTTP headers
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
@@ -137,6 +138,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [yate](https://github.com/pasaran/yate) — Yet Another Template Engine
     - [yate.io](http://maksimr.github.io/yate/) — Playground for Yate
 - [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
+- [cnCt](https://github.com/SoftWearFinance/cnCt) — Building DOM from JSON-templates
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
