@@ -32,6 +32,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 *   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) ([ru](http://bonsaiden.github.io/JavaScript-Garden/ru/))
+*   [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 
 ## CoffeeScript
 *   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
@@ -86,6 +87,8 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Haskell
 *   [Learn You Haskell](http://learnyouahaskell.com/chapters)
+*   [Real World Haskell](http://book.realworldhaskell.org/read/)
+*   [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 *   RU: [О Haskell по-человечески](http://ohaskell.ru) 
 
 ## Erlang
