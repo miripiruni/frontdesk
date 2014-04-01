@@ -190,7 +190,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Roole](http://roole.org/) — a language that compiles to CSS
 - [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
 
-## CSS frameworks
+## CSS frameworks 
+- [Semantic UI](http://semantic-ui.com) — Semantic empowers designers and developers by creating a language for sharing UI.
 - [Twitter bootstrap](http://getbootstrap.com/)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [YUI](http://yuilibrary.com)
