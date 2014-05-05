@@ -303,6 +303,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome) - The iconic font designed for Bootstrap
+- [Entypo](https://github.com/danielbruce/entypo) - command line utility to generate fonts from separate svg files. This is possible to associate each icon with a symbol
 
 ## CLI Apps
 - [Grunt](http://gruntjs.com) - Javascript task runner
