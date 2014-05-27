@@ -12,6 +12,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
 - [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
+- [Speedy Android emulator](http://www.genymotion.com/)
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
