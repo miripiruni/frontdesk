@@ -81,6 +81,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Oboe.js](http://oboejs.com/) - Streaming JSON loading for Node and browsers
 - [Polymer](http://www.polymer-project.org/) - Polymer is a library that uses the latest web technologies to let you create custom HTML elements
 - [x-tags](http://www.x-tags.org/) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
+- [React](http://facebook.github.io/react) - A JavaScript library for building user interfaces
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
