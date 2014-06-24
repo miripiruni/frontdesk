@@ -232,6 +232,13 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
 
+## Style guide generators
+- [KSS](http://warpspire.com/kss)
+- [StyleDocco](http://jacobrask.github.io/styledocco)
+- [Source](http://sourcejs.com)
+- [StyleDown](https://github.com/rstacruz/styledown)
+- [SassDown](https://github.com/nopr/sassdown) 
+
 ## Misc
 - [caniuse](http://caniuse.com)
 - [jquer.in](http://jquer.in) - A collection of jQuery plugins organized according to their category.
