@@ -179,8 +179,8 @@ Community driven list of useful things for front-end developers. [How to contrib
     - [CSS to Less](http://css2less.cc)
     - [LESS Elements](http://lesselements.com) – a set of useful mixins for the LESS
     - [lesshat.com](http://lesshat.com) – smart LESS mixins
-- [SASS and SCSS](http://sass-lang.com)
-    - [CSS to SASS](http://css2sass.heroku.com)
+- [Sass and SCSS](http://sass-lang.com)
+    - [CSS to Sass](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
         - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
         - [Compass Reference Browser](http://compass.aether.ru)
@@ -231,6 +231,13 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
+
+## Style guide generators
+- [KSS](http://warpspire.com/kss)
+- [StyleDocco](http://jacobrask.github.io/styledocco)
+- [Source](http://sourcejs.com)
+- [StyleDown](https://github.com/rstacruz/styledown)
+- [SassDown](https://github.com/nopr/sassdown) 
 
 ## Misc
 - [caniuse](http://caniuse.com)
