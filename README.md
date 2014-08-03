@@ -192,7 +192,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Roole](http://roole.org/) — a language that compiles to CSS
 - [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
 
-## CSS frameworks 
+## CSS frameworks
 - [Semantic UI](http://semantic-ui.com) — Semantic empowers designers and developers by creating a language for sharing UI.
 - [Twitter bootstrap](http://getbootstrap.com/)
 - [Zurb Foundation](http://foundation.zurb.com)
@@ -237,13 +237,14 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [StyleDocco](http://jacobrask.github.io/styledocco)
 - [Source](http://sourcejs.com)
 - [StyleDown](https://github.com/rstacruz/styledown)
-- [SassDown](https://github.com/nopr/sassdown) 
+- [SassDown](https://github.com/nopr/sassdown)
 
 ## Misc
 - [caniuse](http://caniuse.com)
 - [jquer.in](http://jquer.in) - A collection of jQuery plugins organized according to their category.
 - [The Toolbox](http://www.thetoolbox.cc) — a collection of the best time-saving apps, tools, and widgets from around the web
 - [humans.txt](http://humanstxt.org)
+- [angular-js.in](http://angular-js.in) - A curated list of angular directives and modules.
 - [robots.txt](http://www.robotstxt.org)
 - [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
 - [Unicode Emoticons](http://unicodeemoticons.com)
