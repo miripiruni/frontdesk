@@ -4,10 +4,11 @@ Frontdesk
 Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/blob/master/CONTRIBUTING.md)
 
 ## Browsers bug trackers
-- [Opera](https://bugs.opera.com)
+- [Opera](https://bugs.opera.com/wizard/)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
 - [WebKit](http://www.webkit.org/quality/reporting.html)
+- [IE](https://connect.microsoft.com/IE)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
