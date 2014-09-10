@@ -7,6 +7,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Opera](https://bugs.opera.com/wizard/)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
+- [Yandex.Browser](https://feedback2.yandex.ru/yabrowser/err/other)
 - [WebKit](http://www.webkit.org/quality/reporting.html)
 - [IE](https://connect.microsoft.com/IE)
 
