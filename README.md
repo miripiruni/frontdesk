@@ -48,6 +48,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
 - [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and yeoman.
 - [Live HTTP Headers](http://livehttpheaders.mozdev.org/) — Provides information about the HTTP headers
+- [Dimensions](http://felixniklas.com/dimensions/) - You can measure everything you see in the browser
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
