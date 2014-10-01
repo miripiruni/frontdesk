@@ -267,6 +267,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) - Comparing front-end frameworks for faster and easier web development.
 - [Gridlover](http://www.gridlover.net) - Tool to establish a typographic system with modular scale and vertical rhythm.
 - [Unicode Table](http://unicode-table.com) - Unicode character table.
+- [Graphemica](http://graphemica.com) - One more unicode character table.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
