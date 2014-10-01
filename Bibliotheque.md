@@ -21,13 +21,20 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 *   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/)
 
+## HTTP
+*   [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
+*   [HTML5 for Web designers (PDF file, 2Mb)](http://myuuu.fr/livre/HTML5forWebDesigners.pdf)
 
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) ([ru](http://bonsaiden.github.io/JavaScript-Garden/ru/))
+*   [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
+*   [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
+*   [Single page apps in depth](http://singlepageappbook.com/)
 
 ## CoffeeScript
 *   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
@@ -54,6 +61,10 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Node.js
 *   [Node Guide](http://nodeguide.com/) ([ru](http://nodeguide.ru/doc/dailyjs-nodepad/#))
 *   [Mixu's Node book](http://book.mixu.net/node/)
+*   [The Node Beginner Book](http://www.nodebeginner.org) ([ru](http://www.nodebeginner.ru))
+*   [Node.js for Beginners — Tuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
+*   [Node.js Screencast (Russian)](http://learn.javascript.ru/nodejs-screencast)
+*   [NodeTuts](http://nodetuts.com) — Node.js Video Tutorials
 
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
@@ -61,6 +72,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## Ruby
 *   [Ruby Monk](http://rubymonk.com/)
 *   [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+*   [Codeacademy: Course Ruby](http://www.codecademy.com/ru/tracks/ruby)
 
 ## Vim
 *   [Open Vim](http://www.openvim.com/)
@@ -77,6 +89,9 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Haskell
 *   [Learn You Haskell](http://learnyouahaskell.com/chapters)
+*   [Real World Haskell](http://book.realworldhaskell.org/read/)
+*   [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+*   RU: [О Haskell по-человечески](http://ohaskell.ru) 
 
 ## Erlang
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/)

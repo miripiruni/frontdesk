@@ -1,17 +1,20 @@
 Frontdesk
 =========
 
-Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
+Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/blob/master/CONTRIBUTING.md)
 
 ## Browsers bug trackers
-- [Opera](https://bugs.opera.com)
+- [Opera](https://bugs.opera.com/wizard/)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
+- [Yandex.Browser](https://feedback2.yandex.ru/yabrowser/err/other)
 - [WebKit](http://www.webkit.org/quality/reporting.html)
+- [IE](https://connect.microsoft.com/IE)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
 - [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
+- [Speedy Android emulator](http://www.genymotion.com/)
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
@@ -34,19 +37,24 @@ Community driven list of useful things for front-end developers. [How to contrib
 - Internet Explorer:
     - [IE 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)
     - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
+    - [Any version](http://loc.modern.ie/virtualization-tools#downloads) - Any version of IE on any Windows version, free VM images
+- [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
+- [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) - useful tool for RESTful APIs
 - [Firebug](http://getfirebug.com)
 - [Web Developer for Firefox](http://chrispederick.com/work/web-developer/)
 - [Chrome DevTools Casts for beginners](http://discover-devtools.codeschool.com/)
 - [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and yeoman.
+- [Live HTTP Headers](http://livehttpheaders.mozdev.org/) — Provides information about the HTTP headers
+- [Dimensions](http://felixniklas.com/dimensions/) - You can measure everything you see in the browser
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
 - [JSBin](http://jsbin.com) — JavaScript, HTML and CSS playground
 - [gist.github](https://gist.github.com) — code snippets
-- [GitLab Snippets](https://gitlab.com/snippets) - code snippets
+- [GitLab Snippets](https://gitlab.com/snippets) — code snippets
 - [JSFiddle](http://jsfiddle.net) — JavaScript, HTML and CSS playground
 - [CodePen](http://codepen.io) — Another JS, HTML, CSS sandbox
 - [RegExr](http://gskinner.com/RegExr/) — regular expression playground
@@ -63,15 +71,20 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) — Favicon Cheat Sheet
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
+- [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 
 ## JS
-- [XML to JSON](http://jsontoxml.utilities-online.info)
+- [XML to JSON](http://utilities-online.info/xmltojson)
 - [MicroJS](http://microjs.com) — helps you discover the most compact-but-powerful microframeworks
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [pro.jsonlint.com](http://pro.jsonlint.com) — pro version of jsonlint.com
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
+- [Oboe.js](http://oboejs.com/) - Streaming JSON loading for Node and browsers
+- [Polymer](http://www.polymer-project.org/) - Polymer is a library that uses the latest web technologies to let you create custom HTML elements
+- [x-tags](http://www.x-tags.org/) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
+- [React](http://facebook.github.io/react) - A JavaScript library for building user interfaces
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
@@ -88,6 +101,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
 - [Metro JS](http://www.drewgreenwell.com/projects/metrojs) - plugin for jQuery which enables the Modern UI interface on the web.
 - [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
+- [jsdb.io](http://www.jsdb.io/) — The definitive source of the best JavaScript frameworks, plugins, and tools
 
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine/)
@@ -97,12 +111,22 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
 - [D.O.H.](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
 - [wru](https://github.com/WebReflection/wru.git)
+- [sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript
+- [protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
+
+## Assertion libraries
+- [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
+- [expect.js](https://github.com/LearnBoost/expect.js/) - Minimalistic BDD-style assertions for Node.JS and the browser
+- [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js
 
 ## HTML
 - [HTML5 Rocks](http://html5rocks.com)
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
 - [DirtyMarkup](http://www.dirtymarkup.com) - Quick/easy HTML auto formatting
+- [HTML5Pattern](http://html5pattern.com/) - HTML5Pattern is a source of regularly used Input-Patterns.
+- [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
+- [(X)HTML5 Validator](http://html5.validator.nu/)
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
@@ -117,7 +141,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Dust](http://akdubya.github.com/dustjs/) — Asynchronous templates for the browser and node.js
 - [TwigJS](https://github.com/fadrizul/twigjs) — A port of PHP template engine to JavaScript
 - [yate](https://github.com/pasaran/yate) — Yet Another Template Engine
+    - [yate.io](http://maksimr.github.io/yate/) — Playground for Yate
 - [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
+- [cnCt](https://github.com/SoftWearFinance/cnCt) — Building DOM from JSON-templates
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
@@ -143,14 +169,21 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
 - [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
+- [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
+- [CSS3 Generator](http://css3generator.com/)
+- [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+- [:nth Tester](http://css-tricks.com/examples/nth-child-tester/)
+- [The CSS3 test](http://css3test.com/)
+- [The 3D CSS text generator](http://3dcsstext.com/)
+- [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
     - [CSS to Less](http://css2less.cc)
     - [LESS Elements](http://lesselements.com) – a set of useful mixins for the LESS
     - [lesshat.com](http://lesshat.com) – smart LESS mixins
-- [SASS and SCSS](http://sass-lang.com)
-    - [CSS to SASS](http://css2sass.heroku.com)
+- [Sass and SCSS](http://sass-lang.com)
+    - [CSS to Sass](http://css2sass.heroku.com)
     - [Compass](http://compass-style.org)
         - [Compass Ceaser CSS Easing Transitions](https://github.com/jhardy/compass-ceaser-easing)
         - [Compass Reference Browser](http://compass.aether.ru)
@@ -163,7 +196,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
 
 ## CSS frameworks
-- [Twitter bootstrap](http://twitter.github.com/bootstrap/)
+- [Semantic UI](http://semantic-ui.com) — Semantic empowers designers and developers by creating a language for sharing UI.
+- [Twitter bootstrap](http://getbootstrap.com/)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [YUI](http://yuilibrary.com)
 - [Blueprint CSS](http://www.blueprintcss.org)
@@ -182,6 +216,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [baseline](http://baselinecss.com)
 - [Frameless grid](http://framelessgrid.com)
 - [Kube](http://imperavi.com/kube/)
+- [Topcoat](http://topcoat.io)
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com/) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
@@ -200,11 +235,19 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
 
+## Style guide generators
+- [KSS](http://warpspire.com/kss)
+- [StyleDocco](http://jacobrask.github.io/styledocco)
+- [Source](http://sourcejs.com)
+- [StyleDown](https://github.com/rstacruz/styledown)
+- [SassDown](https://github.com/nopr/sassdown)
+
 ## Misc
 - [caniuse](http://caniuse.com)
 - [jquer.in](http://jquer.in) - A collection of jQuery plugins organized according to their category.
 - [The Toolbox](http://www.thetoolbox.cc) — a collection of the best time-saving apps, tools, and widgets from around the web
 - [humans.txt](http://humanstxt.org)
+- [angular-js.in](http://angular-js.in) - A curated list of angular directives and modules.
 - [robots.txt](http://www.robotstxt.org)
 - [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
 - [Unicode Emoticons](http://unicodeemoticons.com)
@@ -221,6 +264,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [TypeScript](http://www.typescriptlang.org/)
 - [JSDB.io](http://www.jsdb.io) - The Database of JavaScript Libraries
 - [Prepros](http://alphapixels.com/prepros) — CSS/JS preprocessor(LESS, Sass, SCSS, Stylus, Jade, Slim, CoffeeScript, LiveScript, Haml and Markdown), minifier and image optimization
+- [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) - Comparing front-end frameworks for faster and easier web development.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
@@ -249,6 +293,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
 - [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 - [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
+- [Bento](http://www.bentobox.io) — Everything you need to know about web development. Neatly packaged.
 - [Superherojs.com](http://superherojs.com/) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 - [JSBooks](http://jsbooks.revolunet.com/) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org/) - Open community of developers building resources for a better web, regardless of brand, browser or platform
@@ -270,16 +315,23 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Fontello](http://fontello.com) — easy way to combine selected icons from popular icons sets into custom made font
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome) - The iconic font designed for Bootstrap
+- [Entypo](https://github.com/danielbruce/entypo) - command line utility to generate fonts from separate svg files. This is possible to associate each icon with a symbol
 
 ## CLI Apps
 - [Grunt](http://gruntjs.com) - Javascript task runner
+- [Gulp](http://gulpjs.com/) - Javascript task runner based on node streams
 - [Yeoman](http://yeoman.io) - Developer workflow
 - [Brunch](http://brunch.io/) - Brunch is an assembler for HTML5 applications
 - [Bower](http://bower.io) - Javascript package manager
 - [Jam](http://jamjs.org/) - Jam is a package manager for JavaScript
 - [Component](https://github.com/component/component) - Component package manager for building a better web
+- [Karma test runner](http://karma-runner.github.io/) - Spectacular test runner for Javascript
+- [browser-repl](https://github.com/cloudup/browser-repl) - Launch a repl on your command line to any browser in the cloud
 
 ## OS X Apps
+- [Sketch](http://bohemiancoding.com/sketch/) — beautiful, simple, and powerful vector graphics app.
+- [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com) — version control as easy as Mail
 - [LiveReload](http://livereload.com) — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
@@ -301,3 +353,4 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
 - [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 - [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
+- [Githug](https://github.com/gazler/githug) — Git Your Game On
