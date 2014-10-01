@@ -75,7 +75,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 
 ## JS
-- [XML to JSON](http://jsontoxml.utilities-online.info)
+- [XML to JSON](http://utilities-online.info/xmltojson)
 - [MicroJS](http://microjs.com) — helps you discover the most compact-but-powerful microframeworks
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [pro.jsonlint.com](http://pro.jsonlint.com) — pro version of jsonlint.com
