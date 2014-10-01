@@ -156,7 +156,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [CSS Gradient finder](http://gradientfinder.com)
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor)
 - [Sprite Cow](http://www.spritecow.com) — CSS Sprites
-- [CSS3 Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com/all/)
+- [CSS3 Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com)
 - [Easing animation tool](http://matthewlein.com/ceaser)
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
