@@ -349,6 +349,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Kaleidoscope](http://www.kaleidoscopeapp.com) — a nice diff tool
 - [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
 - [Ghostlab](http://vanamco.com/ghostlab) - responsive development workflow tool that allows for synchronized testing of your web app across multiple devices - similar to Edge Inspect
+- [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X
 
 ## Git
 - [GitHowTo](http://githowto.com)
