@@ -175,6 +175,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [The CSS3 test](http://css3test.com)
 - [The 3D CSS text generator](http://3dcsstext.com)
 - [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
+- [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
