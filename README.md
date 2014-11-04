@@ -225,6 +225,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
 - [Google style guide](http://code.google.com/p/google-styleguide)
+- [NPM Coding Style](https://www.npmjs.org/doc/misc/npm-coding-style.html)
 - [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
 - [Dojo Style Guide](https://dojotoolkit.org/community/styleGuide)
 - [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js)
@@ -236,6 +237,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/) — principles of writing consistent, idiomatic JavaScript
+- [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
 
 ## Style guide generators
 - [KSS](http://warpspire.com/kss)
