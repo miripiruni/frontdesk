@@ -175,6 +175,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [The CSS3 test](http://css3test.com)
 - [The 3D CSS text generator](http://3dcsstext.com)
 - [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
+- [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
@@ -225,6 +226,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 ## Style guides and methodologies
 - [Github style guide](http://github.com/styleguide)
 - [Google style guide](http://code.google.com/p/google-styleguide)
+- [NPM Coding Style](https://www.npmjs.org/doc/misc/npm-coding-style.html)
 - [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
 - [Dojo Style Guide](https://dojotoolkit.org/community/styleGuide)
 - [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js)
@@ -232,8 +234,11 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
+- [DoCSSa {dok~sa}](http://docssa.info) — Sass based CSS architecture and methodology
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
+- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/) — principles of writing consistent, idiomatic JavaScript
+- [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
 
 ## Style guide generators
 - [KSS](http://warpspire.com/kss)
