@@ -274,6 +274,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Gridlover](http://www.gridlover.net) - Tool to establish a typographic system with modular scale and vertical rhythm.
 - [Unicode Table](http://unicode-table.com) - Unicode character table.
 - [Graphemica](http://graphemica.com) - One more unicode character table.
+- [Web Developer Checklist](http://webdevchecklist.com/)
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
