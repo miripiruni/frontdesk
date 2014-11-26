@@ -241,7 +241,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/) — principles of writing consistent, idiomatic JavaScript
 - [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
 
-## Style guide generators
+## Styleguide generators
 - [KSS](http://warpspire.com/kss)
 - [StyleDocco](http://jacobrask.github.io/styledocco)
 - [Source](http://sourcejs.com)
