@@ -247,6 +247,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Source](http://sourcejs.com)
 - [StyleDown](https://github.com/rstacruz/styledown)
 - [SassDown](https://github.com/nopr/sassdown)
+- [SC5 Styleguide](http://styleguide.sc5.io) — Informative and easily navigable live styleguide which can be edited directly in the browser
 - [Styleguides.io](http://styleguides.io) – Website Style Guide Resources
 
 ## Misc
