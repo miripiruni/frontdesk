@@ -344,6 +344,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [browser-repl](https://github.com/cloudup/browser-repl) - Launch a repl on your command line to any browser in the cloud
 
 ## OS X Apps
+- [CodeKit](https://incident57.com/codekit) — web-dev workflow in the one app: compile everything, autorefresh all browsers, catch errors, add source maps
 - [Sketch](http://bohemiancoding.com/sketch) — beautiful, simple, and powerful vector graphics app.
 - [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
