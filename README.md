@@ -85,13 +85,14 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Oboe.js](http://oboejs.com) - Streaming JSON loading for Node and browsers
 - [Polymer](http://www.polymer-project.org) - Polymer is a library that uses the latest web technologies to let you create custom HTML elements
 - [x-tags](http://www.x-tags.org) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
-- [React](http://facebook.github.io/react) - A JavaScript library for building user interfaces
+- [KeyCode](http://keycode.info/) - Easy visualizer for JavaScript KeyCodes
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
 - [Backbone.js](http://backbonejs.org) — give your JS App some Backbone with Models, Views, Collections, and Events.
 - [Knockout](http://knockoutjs.com) — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
 - [Knockback.js](http://kmalakoff.github.com/knockback) — provides Knockout.js magic for Backbone.js Models and Collections.
+- [React](http://facebook.github.io/react) - A JavaScript library for building user interfaces
 - [AngularJS](http://angularjs.org)
 - [Ember.js](http://emberjs.com)
 - [CanJS](http://canjs.us)
