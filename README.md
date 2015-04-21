@@ -279,6 +279,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Unicode Table](http://unicode-table.com) - Unicode character table.
 - [Graphemica](http://graphemica.com) - One more unicode character table.
 - [Web Developer Checklist](http://webdevchecklist.com/)
+- [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com/) — Online HTML to Markdown converter with API and stuff.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
