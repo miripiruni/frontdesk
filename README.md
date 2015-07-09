@@ -10,6 +10,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Yandex.Browser](https://feedback2.yandex.ru/yabrowser/err/other)
 - [WebKit](http://www.webkit.org/quality/reporting.html)
 - [IE](https://connect.microsoft.com/IE)
+- [V8](https://code.google.com/p/v8/)
 
 ## Mobile simulators
 - [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
