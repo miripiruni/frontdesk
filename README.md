@@ -35,7 +35,7 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Misc
 - [Hyper Polyglot](http://hyperpolyglot.org/)
 - [jQuery Docs](http://docs.jquery.com/Main_Page)
-- [jQuery Cheatsheet](http://futurecolors.ru/jquery/)
+- [jQuery Cheatsheet](http://jqapi.ru/)
 - [caniuse](http://caniuse.com/)
 - [mobilehtml5](http://mobilehtml5.org/)
 - [html5please](http://html5please.com/)
