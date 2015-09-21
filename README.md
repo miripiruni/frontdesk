@@ -147,6 +147,7 @@ Community driven list of useful things for front-end developers. [How to contrib
     - [yate.io](http://maksimr.github.io/yate) — Playground for Yate
 - [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
 - [cnCt](https://github.com/SoftWearFinance/cnCt) — Building DOM from JSON-templates
+- [nunjucks](https://mozilla.github.io/nunjucks) — JavaScript port of Jinja2
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
