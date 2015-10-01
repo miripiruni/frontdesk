@@ -84,7 +84,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Closure Library](http://code.google.com/p/closure-library) is a broad, well-tested, modular, and cross-browser JavaScript library.
 *   [Metro JS](http://www.drewgreenwell.com/projects/metrojs) –  plugin for jQuery which enables the Modern UI interface on the web.
 *   [toastr](https://github.com/CodeSeven/toastr) –  simple JavaScript toast notifications.
-*   [jsdb.io](http://www.jsdb.io) — The definitive source of the best JavaScript frameworks, plugins, and tools
+*   [JSDB.io](http://www.jsdb.io) — The definitive source of the best JavaScript libraries, frameworks, plugins, and tools
 
 ### JS Package Managers
 *   [Grunt](http://gruntjs.com) – Javascript task runner
@@ -130,6 +130,10 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 *   [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 *   [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
+*   [How to Center in CSS?](http://howtocenterincss.com/) – Easy tool to center anything in CSS. [GitHub](https://github.com/oliverzheng/howtocenterincss).
+*   [Bootstrap navbar generator](http://smarchal.com/twbscolor/).
+*   [Initializr](http://www.initializr.com) – HTML5 templates generator (Boilerplate, Responsive or Bootstrap).
+*   [CSS Dig](http://cssdig.com) – Chrome Extension made to analyse CSS, consolidate and refactor.
 
 ### CSS Preprocessors
 *   [Less](http://lesscss.org)
@@ -148,6 +152,8 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [xCSS](http://xcss.antpaw.org) — PHP based CSS preprocessor
 *   [Roole](http://roole.org) — a language that compiles to CSS
 *   [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
+*   [Prepros](http://alphapixels.com/prepros) — CSS/JS preprocessor(LESS, Sass, SCSS, Stylus, Jade, Slim, CoffeeScript, LiveScript, Haml and Markdown), minifier and image optimization
+*   [Less Tester](http://lesstester.com/) – Online compiler and tester for LESS.
 
 ### CSS frameworks
 *   [Semantic UI](http://semantic-ui.com) — Semantic empowers designers and developers by creating a language for sharing UI.
@@ -198,17 +204,25 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [PNG compressor](http://www.punypng.com)
 *   [Tiny png](http://tinypng.org) — can make IE6 friendly PNGs
 *   [IMGO](https://github.com/imgo/imgo) — image optimization tool
-*   [SVGO](https://github.com/svg/svgo) — SVG optimization tool
 *   [JPEG compressor](http://www.jpegmini.com) — your photos on a diet
 *   [Smush.it](http://www.smushit.com/ysmush.it) — online image optimization tool
 *   [placehold.it](http://placehold.it) — a quick and simple image placeholder service. By the way [placekitten](http://placekitten.com) & [placeboobs](http://placeboobs.com)
 *   [lorempixel](http://lorempixel.com) — placehold random images with dummy text
 *   [SpritePad](http://spritepad.wearekiss.com) — Sprite generator
+*   [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
+*   [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
+*   [SVGO](https://github.com/svg/svgo) — SVG optimization tool
+*   [Cropp](http://cropp.me) – Easy online crop tool.
 *   [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) — Favicon Cheat Sheet
 *   [Favicon generator](http://www.favicon.cc) — draw your favicon
 *   [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
-*   [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
-*   [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
+
+### Colors
+*   [Coolors](https://coolors.co) – Fast color scheme generator.
+*   [Color Scheme Designer](http://colorschemedesigner.com) – find resonate colors for a great design.
+*   [CSS Color Names](http://www.crockford.com/wrrrld/color.html)
+*   [Flat UI Color Picker](http://www.flatuicolorpicker.com).
+*   [ColourLovers](http://www.colourlovers.com/) – Color trends and palettes.
 
 ### Style guides and methodologies
 *   [Github style guide](http://github.com/styleguide)
@@ -260,6 +274,9 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 *   [Dive into Python 3](http://www.diveinto.org/python3/)
+*   [CherryPy](http://cherrypy.org) – A Minimalist Python Web Framework. [Bitbucket](https://bitbucket.org/cherrypy/cherrypy/wiki/Home).
+*   RU: [Python Digest](http://pythondigest.ru). [GitHub](https://github.com/pythondigest/pythondigest).
+*   [Python Village](http://rosalind.info/problems/list-view/?location=python-village) – Learning programming through problem solving.
 
 ### Clojure
 *   [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
@@ -371,8 +388,8 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [nunjucks](https://mozilla.github.io/nunjucks) — JavaScript port of Jinja2
 
 ### Platforms for building web app
-*   [Meteor](http://www.meteor.com) *   Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
-*   [Google Apps Script](http://www.google.com/script/start) *   Build web apps and automate tasks with Google Apps Script
+*   [Meteor](http://www.meteor.com) – Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+*   [Google Apps Script](http://www.google.com/script/start) – Build web apps and automate tasks with Google Apps Script
 
 ### Performance
 *   [YUI JS, CSS compressor](http://www.refresh-sf.com/yui)
@@ -427,23 +444,25 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
 *   [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
 *   [pasteboard.co](http://pasteboard.co) — image sharing web app
-*   [Color Scheme Designer](http://colorschemedesigner.com) *   find resonate colors for a great design.
 *   [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) *   a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 *   [CSS-Tricks snippets](http://css-tricks.com/snippets) — useful code snippets
 *   [TypeScript](http://www.typescriptlang.org)
-*   [JSDB.io](http://www.jsdb.io) *   The Database of JavaScript Libraries
-*   [Prepros](http://alphapixels.com/prepros) — CSS/JS preprocessor(LESS, Sass, SCSS, Stylus, Jade, Slim, CoffeeScript, LiveScript, Haml and Markdown), minifier and image optimization
-*   [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) *   Comparing front-end frameworks for faster and easier web development.
-*   [Gridlover](http://www.gridlover.net) *   Tool to establish a typographic system with modular scale and vertical rhythm.
-*   [Unicode Table](http://unicode-table.com) *   Unicode character table.
-*   [Graphemica](http://graphemica.com) *   One more unicode character table.
+*   [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) – Comparing front-end frameworks for faster and easier web development.
+*   [Gridlover](http://www.gridlover.net) – Tool to establish a typographic system with modular scale and vertical rhythm.
+*   [Unicode Table](http://unicode-table.com) – Unicode character table.
+*   [Graphemica](http://graphemica.com) – One more unicode character table.
 *   [Web Developer Checklist](http://webdevchecklist.com)
 *   [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
-– [Coolors](https://coolors.co) – Fast color scheme generator.
+*   [Koding](https://koding.com) – Cloud development environment where developers come together and code in the browser.
+*   [OverAPI](http://overapi.com) – cheat sheets and useful links for anything. [Cheat sheets for developers](http://overapi.com/developer-tools).
 
 ### Vim
 *   [Open Vim](http://www.openvim.com/)
 *   [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
+### Text editors and IDE
+*   [How to use Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets).
+*   [Emmet](http://emmet.io) – A plugin for many text editors. Must-have for web-developers!
 
 ### Screen
 *   [GNU Screen](http://xgu.ru/wiki/Man:screen)
