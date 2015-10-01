@@ -252,6 +252,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js) — principles of writing consistent, idiomatic JavaScript
 - [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
+- [U.S. Web Design Standards](https://github.com/18F/web-design-standards) – a library of open source UI components and a visual style guide for U.S. federal government websites. [Also here](https://playbook.cio.gov/designstandards/getting-started)
 
 ## Styleguide generators
 - [KSS](http://warpspire.com/kss)
