@@ -1,7 +1,7 @@
 Bibliotheque
 ============
 
-Community driven list of *free online books and manuals* for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
+Community driven list of useful things, books and manuals for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
 
 ## Version Control Systems
@@ -254,7 +254,7 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## DataBase
 ### MongoDB
-*   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
+*   [The Little MongoDB Book](http://jsman.ru/mongo-book)
 
 ### Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
@@ -272,8 +272,8 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ### Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
-*   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
-*   [Dive into Python 3](http://www.diveinto.org/python3/)
+*   [Learn Python The Hard Way](http://learnpythonthehardway.org)
+*   [Dive into Python 3](http://www.diveinto.org/python3)
 *   [CherryPy](http://cherrypy.org) – A Minimalist Python Web Framework. [Bitbucket](https://bitbucket.org/cherrypy/cherrypy/wiki/Home).
 *   RU: [Python Digest](http://pythondigest.ru). [GitHub](https://github.com/pythondigest/pythondigest).
 *   [Python Village](http://rosalind.info/problems/list-view/?location=python-village) – Learning programming through problem solving.
@@ -355,7 +355,7 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ### Testing frameworks
 *   [Jasmine](http://pivotal.github.com/jasmine)
-*   [Mocha](http://mochajs.org) !NEW LINK
+*   [Mocha](http://mochajs.org)
 *   [QUnit](http://qunitjs.com)
 *   [Buster.js](http://busterjs.org)
 *   [YUI Test](http://yuilibrary.com/yui/docs/test)
@@ -365,9 +365,9 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [protractor](https://github.com/angular/protractor) *   E2E test framework for Angular apps
 
 ### Assertion libraries
-*   [Chai](http://chaijs.com) *   Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
-*   [expect.js](https://github.com/LearnBoost/expect.js) *   Minimalistic BDD-style assertions for Node.JS and the browser
-*   [should.js](https://github.com/visionmedia/should.js) *   BDD style assertions for node.js
+*   [Chai](http://chaijs.com) – Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
+*   [expect.js](https://github.com/LearnBoost/expect.js) – Minimalistic BDD-style assertions for Node.JS and the browser
+*   [should.js](https://github.com/visionmedia/should.js) – BDD style assertions for node.js
 
 ### Template engines
 *   [Template-Engine-Chooser!](http://garann.github.com/template-chooser)
@@ -444,7 +444,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
 *   [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
 *   [pasteboard.co](http://pasteboard.co) — image sharing web app
-*   [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) *   a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
+*   [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) – a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 *   [CSS-Tricks snippets](http://css-tricks.com/snippets) — useful code snippets
 *   [TypeScript](http://www.typescriptlang.org)
 *   [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) – Comparing front-end frameworks for faster and easier web development.
@@ -489,13 +489,13 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 *   [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
 *   [Bento](http://www.bentobox.io) — Everything you need to know about web development. Neatly packaged.
-*   [Superherojs.com](http://superherojs.com) *   This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
-*   [JSBooks](http://jsbooks.revolunet.com) *   JSBooks the best free JavaScript books/resources
-*   [WebPlatform.org](http://www.webplatform.org) *   Open community of developers building resources for a better web, regardless of brand, browser or platform
+*   [Superherojs.com](http://superherojs.com) – This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
+*   [JSBooks](http://jsbooks.revolunet.com) – JSBooks the best free JavaScript books/resources
+*   [WebPlatform.org](http://www.webplatform.org) – Open community of developers building resources for a better web, regardless of brand, browser or platform
 
 ### CDN
 *   [Google CDN](https://developers.google.com/speed/libraries/devguide)
 *   [Yandex CDN](https://tech.yandex.ru/jslibs)
 *   [Microsoft CDN](http://www.asp.net/ajaxlibrary/cdn.ashx)
-*   [cdnjs](http://cdnjs.com) — We host it all *   JavaScript, CSS, SWF, images, etc
-*   [BootstrapCDN](https://www.bootstrapcdn.com) *   Delivering: Bootstrap, Bootlint, Font Awesome and Bootswatch
+*   [cdnjs](http://cdnjs.com) — We host it all: JavaScript, CSS, SWF, images, etc
+*   [BootstrapCDN](https://www.bootstrapcdn.com) – Delivering: Bootstrap, Bootlint, Font Awesome and Bootswatch
