@@ -239,6 +239,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
 - [Dojo Style Guide](https://dojotoolkit.org/community/styleGuide)
 - [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
