@@ -75,6 +75,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
 - [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
+– [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
 
 ## JS
 - [XML to JSON](http://utilities-online.info/xmltojson)
@@ -86,7 +87,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Oboe.js](http://oboejs.com) - Streaming JSON loading for Node and browsers
 - [Polymer](http://www.polymer-project.org) - Polymer is a library that uses the latest web technologies to let you create custom HTML elements
 - [x-tags](http://www.x-tags.org) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
-- [KeyCode](http://keycode.info/) - Easy visualizer for JavaScript KeyCodes
+- [KeyCode](http://keycode.info) - Easy visualizer for JavaScript KeyCodes
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
@@ -180,7 +181,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [The 3D CSS text generator](http://3dcsstext.com)
 - [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 - [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
-- [CSS Explain](http://josh.github.io/css-explain/) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
+- [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
@@ -223,6 +224,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Kube](http://imperavi.com/kube)
 - [Topcoat](http://topcoat.io)
 - [Ratchet](http://goratchet.com) - Build mobile apps with simple HTML, CSS, and JS components.
+– [Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
+– [Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
+– [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
@@ -242,7 +246,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [DoCSSa {dok~sa}](http://docssa.info) — Sass based CSS architecture and methodology
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
 - Principles of writing consistent, idiomatic [CSS](https://github.com/necolas/idiomatic-css) and [HTML](https://github.com/necolas/idiomatic-html)
-- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/) — principles of writing consistent, idiomatic JavaScript
+- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js) — principles of writing consistent, idiomatic JavaScript
 - [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
 
 ## Styleguide generators
@@ -280,8 +284,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Gridlover](http://www.gridlover.net) - Tool to establish a typographic system with modular scale and vertical rhythm.
 - [Unicode Table](http://unicode-table.com) - Unicode character table.
 - [Graphemica](http://graphemica.com) - One more unicode character table.
-- [Web Developer Checklist](http://webdevchecklist.com/)
-- [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com/) — Online HTML to Markdown converter with API and stuff.
+- [Web Developer Checklist](http://webdevchecklist.com)
+- [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
+– [Coolors](https://coolors.co) – Fast color scheme generator.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
