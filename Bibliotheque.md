@@ -21,9 +21,11 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Gitflow](https://github.com/nvie/gitflow) – A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 *   [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
 *   [Githug](https://github.com/gazler/githug) — Git Your Game On
+
 ### SVN
 *   [SVN how to](http://svnhowto.com/)
 *   [ Version Control with Subversion](http://svnbook.red-bean.com/index.en.html)
+
 ### Mercurial
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 *   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/)
@@ -31,6 +33,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## HyperText
 ### HTTP
 *   [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
 ### HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
 *   [HTML5 for Web designers (PDF file, 2Mb)](http://myuuu.fr/livre/HTML5forWebDesigners.pdf)
@@ -82,6 +85,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Metro JS](http://www.drewgreenwell.com/projects/metrojs) –  plugin for jQuery which enables the Modern UI interface on the web.
 *   [toastr](https://github.com/CodeSeven/toastr) –  simple JavaScript toast notifications.
 *   [jsdb.io](http://www.jsdb.io) — The definitive source of the best JavaScript frameworks, plugins, and tools
+
 ### JS Package Managers
 *   [Grunt](http://gruntjs.com) – Javascript task runner
 *   [Gulp](http://gulpjs.com) – Javascript task runner based on node streams
@@ -126,6 +130,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 *   [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 *   [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
+
 ### CSS Preprocessors
 *   [Less](http://lesscss.org)
 *   [CSS to Less](http://css2less.cc)
@@ -143,6 +148,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [xCSS](http://xcss.antpaw.org) — PHP based CSS preprocessor
 *   [Roole](http://roole.org) — a language that compiles to CSS
 *   [Rework](https://github.com/visionmedia/rework) — arbitrary CSS preprocessing library for node.js and the browser
+
 ### CSS frameworks
 *   [Semantic UI](http://semantic-ui.com) — Semantic empowers designers and developers by creating a language for sharing UI.
 *   [Twitter bootstrap](http://getbootstrap.com)
@@ -175,6 +181,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ### Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 *   [Edward Tufte](http://edwardtufte.ru/)
+
 ### Fonts
 *   [CSSFontStack](http://cssfontstack.com)
 *   [Font Squirrel](http://www.fontsquirrel.com)
@@ -186,6 +193,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome) — The iconic font designed for Bootstrap
 *   [Entypo](https://github.com/danielbruce/entypo) —  command line utility to generate fonts from separate svg files. This is possible to associate each icon with a symbol
 *   [Font Family Reunion](http://fontfamily.io) —  Compatibility tables for default local fonts.
+
 ### Img
 *   [PNG compressor](http://www.punypng.com)
 *   [Tiny png](http://tinypng.org) — can make IE6 friendly PNGs
@@ -201,6 +209,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 *   [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 *   [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
+
 ### Style guides and methodologies
 *   [Github style guide](http://github.com/styleguide)
 *   [Google style guide](http://code.google.com/p/google-styleguide)
@@ -218,6 +227,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Idiomatic.js](https://github.com/rwaldron/idiomatic.js) — principles of writing consistent, idiomatic JavaScript
 *   [Pragmatic.js code style guidelines](https://github.com/madrobby/pragmatic.js)
 *   [U.S. Web Design Standards](https://github.com/18F/web-design-standards) – a library of open source UI components and a visual style guide for U.S. federal government websites. [Also here](https://playbook.cio.gov/designstandards/getting-started)
+
 ### Styleguide generators
 *   [KSS](http://warpspire.com/kss)
 *   [StyleDocco](http://jacobrask.github.io/styledocco)
@@ -231,6 +241,7 @@ Community driven list of *free online books and manuals* for front-end developer
 ## DataBase
 ### MongoDB
 *   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
+
 ### Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
 
@@ -244,19 +255,24 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [JSFiddle](http://jsfiddle.net) — JavaScript, HTML and CSS playground
 *   [CodePen](http://codepen.io) — Another JS, HTML, CSS sandbox
 *   [RegExr](http://gskinner.com/RegExr) — regular expression playground
+
 ### Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 *   [Dive into Python 3](http://www.diveinto.org/python3/)
+
 ### Clojure
 *   [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
+
 ### Haskell
 *   [Learn You Haskell](http://learnyouahaskell.com/chapters)
 *   [Real World Haskell](http://book.realworldhaskell.org/read/)
 *   [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 *   RU: [О Haskell по-человечески](http://ohaskell.ru) 
+
 ### Erlang
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/)
+
 ### Node.js
 *   [Node Guide](http://nodeguide.com/) ([ru](http://nodeguide.ru/doc/dailyjs-nodepad/#))
 *   [Mixu's Node book](http://book.mixu.net/node/)
@@ -264,6 +280,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Node.js for Beginners — Tuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
 *   [Node.js Screencast (Russian)](http://learn.javascript.ru/nodejs-screencast)
 *   [NodeTuts](http://nodetuts.com) — Node.js Video Tutorials
+
 ### Ruby
 *   [Ruby Monk](http://rubymonk.com/)
 *   [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
@@ -278,16 +295,19 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [WebKit](http://www.webkit.org/quality/reporting.html)
 *   [IE](https://connect.microsoft.com/IE)
 *   [V8](https://code.google.com/p/v8/)
+
 ### Mobile simulators
 *   [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
 *   [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
 *   [Speedy Android emulator](http://www.genymotion.com)
+
 ### Browsers Dev Builds
 *   [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 *   [Internet Explorer 10](http://ie.microsoft.com/TESTdrive)
 *   [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 *   [WebKit Nightly](http://nightly.webkit.org)
 *   [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora)
+
 ### Where to download version X of browser Y?
 *   Firefox:
     *   [Official archive](http://ftp.mozilla.org/pub/mozilla.org)
@@ -304,6 +324,7 @@ Community driven list of *free online books and manuals* for front-end developer
     *   [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
     *   [Any version](http://loc.modern.ie/virtualization-tools#downloads) *   Any version of IE on any Windows version, free VM images
 *   [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
+
 ### Browsers plugins
 *   [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 *   [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) *   useful tool for RESTful APIs
@@ -314,6 +335,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Live HTTP Headers](http://livehttpheaders.mozdev.org) — Provides information about the HTTP headers
 *   [Dimensions](http://felixniklas.com/dimensions) *   You can measure everything you see in the browser
 *   [browsersync.io](http://www.browsersync.io) *   Time-saving synchronised browser testing
+
 ### Testing frameworks
 *   [Jasmine](http://pivotal.github.com/jasmine)
 *   [Mocha](http://mochajs.org) !NEW LINK
@@ -324,10 +346,12 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [wru](https://github.com/WebReflection/wru.git)
 *   [sinon](http://sinonjs.org) *   Standalone test spies, stubs and mocks for JavaScript
 *   [protractor](https://github.com/angular/protractor) *   E2E test framework for Angular apps
+
 ### Assertion libraries
 *   [Chai](http://chaijs.com) *   Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 *   [expect.js](https://github.com/LearnBoost/expect.js) *   Minimalistic BDD-style assertions for Node.JS and the browser
 *   [should.js](https://github.com/visionmedia/should.js) *   BDD style assertions for node.js
+
 ### Template engines
 *   [Template-Engine-Chooser!](http://garann.github.com/template-chooser)
 *   [Handlebars](http://handlebarsjs.com)
@@ -345,9 +369,11 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Ractive](http://www.ractivejs.org) *   Next-generation DOM manipulation
 *   [cnCt](https://github.com/SoftWearFinance/cnCt) — Building DOM from JSON-templates
 *   [nunjucks](https://mozilla.github.io/nunjucks) — JavaScript port of Jinja2
+
 ### Platforms for building web app
 *   [Meteor](http://www.meteor.com) *   Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
 *   [Google Apps Script](http://www.google.com/script/start) *   Build web apps and automate tasks with Google Apps Script
+
 ### Performance
 *   [YUI JS, CSS compressor](http://www.refresh-sf.com/yui)
 *   [CSSO](http://afelix.github.com/csso) — Cleaver CSS optimizer
@@ -355,6 +381,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Google page speed](https://developers.google.com/speed/pagespeed) — Page speed measurement tools collection from Google
 *   [Web page test](http://www.webpagetest.org) — Check page speed from multiple locations around the globe using real browsers
 *   [jsPerf — JavaScript performance playground](http://jsperf.com)
+
 ### Validators & Quality Tools
 *   [W3C HTML Validator](http://validator.w3.org)
 *   [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
@@ -363,6 +390,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [JSLint](http://jslint.com) — The JavaScript Code Quality Tool by Douglas Crockford
 *   [JSHint](http://jshint.com) — community-driven tool to detect errors and potential problems in JavaScript code
 *   [JSCS](https://github.com/mdevils/node-jscs) — JavaScript Code Style checker
+
 ### OS X Apps
 *   [CodeKit](https://incident57.com/codekit) — web-dev workflow in the one app: compile everything, autorefresh all browsers, catch errors, add source maps
 *   [Sketch](http://bohemiancoding.com/sketch) — beautiful, simple, and powerful vector graphics app.
@@ -412,21 +440,28 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Web Developer Checklist](http://webdevchecklist.com)
 *   [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
 – [Coolors](https://coolors.co) – Fast color scheme generator.
+
 ### Vim
 *   [Open Vim](http://www.openvim.com/)
 *   [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
 ### Screen
 *   [GNU Screen](http://xgu.ru/wiki/Man:screen)
+
 ### Lua
 *   [Lua tutorial](http://luatut.com/)
+
 ### Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
+
 ### Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
+
 ### Stats
 *   [StatCounter](http://gs.statcounter.com)
 *   [LiveInternet](http://www.liveinternet.ru/stat/ru/browsers.html?period=month)
 *   [OpenStat](https://www.openstat.ru/counter:meta/trends/report/browser)
+
 ### Manuals
 *   [jQuery Docs](http://docs.jquery.com)
 *   [Try jQuery](http://try.jquery.com)
@@ -438,6 +473,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Superherojs.com](http://superherojs.com) *   This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 *   [JSBooks](http://jsbooks.revolunet.com) *   JSBooks the best free JavaScript books/resources
 *   [WebPlatform.org](http://www.webplatform.org) *   Open community of developers building resources for a better web, regardless of brand, browser or platform
+
 ### CDN
 *   [Google CDN](https://developers.google.com/speed/libraries/devguide)
 *   [Yandex CDN](https://tech.yandex.ru/jslibs)
