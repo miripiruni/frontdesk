@@ -29,6 +29,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 * [Design](/Bibliotheque.md#design)
 * [Fonts](/Bibliotheque.md#fonts)
 * [Img](/Bibliotheque.md#img)
+* [Colors](/Bibliotheque.md#colors)
 * [Style guides and methodologies](/Bibliotheque.md#style-guides-and-methodologies)
 * [Styleguide generators](/Bibliotheque.md#styleguide-generators)
 
@@ -61,6 +62,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ### Misc
 * [Vim](/Bibliotheque.md#vim)
+* [Text Editors](/Bibliotheque.md#text-editors-and-ide)
 * [Screen](/Bibliotheque.md#screen)
 * [Lua](/Bibliotheque.md#lua)
 * [Bash](/Bibliotheque.md#bash)
