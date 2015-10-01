@@ -75,6 +75,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
 - [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
+– [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
 
 ## JS
 - [XML to JSON](http://utilities-online.info/xmltojson)
@@ -223,6 +224,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Kube](http://imperavi.com/kube)
 - [Topcoat](http://topcoat.io)
 - [Ratchet](http://goratchet.com) - Build mobile apps with simple HTML, CSS, and JS components.
+– [Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
+– [Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
+– [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
@@ -282,6 +286,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Graphemica](http://graphemica.com) - One more unicode character table.
 - [Web Developer Checklist](http://webdevchecklist.com/)
 - [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com/) — Online HTML to Markdown converter with API and stuff.
+– [Coolors](https://coolors.co) – Fast color scheme generator.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
