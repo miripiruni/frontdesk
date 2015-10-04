@@ -8,49 +8,49 @@ See also: [Bibliotheque](/Bibliotheque.md) – A list of free books and tutorial
 ## Table of contents
 
 ### Version Control Systems
-* [Git](#git)
+* [Git](/Resources.md#git)
 
 ### HTML
-* [HTML](#html)
+* [HTML](/Resources.md#html)
 
 ### JavaScript
-* [JavaScript](#javascript-1)
-* [CoffeeScript](#coffeescript)
-* [JS frameworks](#js-frameworks)
-* [JS Package Managers](#js-package-managers)
+* [JavaScript](/Resources.md#javascript-1)
+* [CoffeeScript](/Resources.md#coffeescript)
+* [JS frameworks](/Resources.md#js-frameworks)
+* [JS Package Managers](/Resources.md#js-package-managers)
 
 ### CSS
-* [CSS](#css-1)
-* [CSS Preprocessors](#css-preprocessors)
-* [CSS frameworks](#css-frameworks)
+* [CSS](/Resources.md#css-1)
+* [CSS Preprocessors](/Resources.md#css-preprocessors)
+* [CSS frameworks](/Resources.md#css-frameworks)
 
 ### Design
-* [Fonts](#fonts)
-* [Img](#img)
-* [Colors](#colors)
-* [Style guides and methodologies](#style-guides-and-methodologies)
-* [Styleguide generators](#styleguide-generators)
+* [Fonts](/Resources.md#fonts)
+* [Img](/Resources.md#img)
+* [Colors](/Resources.md#colors)
+* [Style guides and methodologies](/Resources.md#style-guides-and-methodologies)
+* [Styleguide generators](/Resources.md#styleguide-generators)
 
 ### Programming
-* [Code snippets](#code-snippets)
-* [Python](#python)
+* [Code snippets](/Resources.md#code-snippets)
+* [Python](/Resources.md#python)
 
 ### Development and testing
-* [Browsers bug trackers](#browsers-bug-trackers)
-* [Mobile simulators](#mobile-simulators)
-* [Browsers Dev Builds](#browsers-dev-builds)
-* [Where to download version X of browser Y?](#where-to-download-version-x-of-browser-y)
-* [Browsers plugins](#browsers-plugins)
-* [Testing frameworks](#testing-frameworks)
-* [Assertion libraries](#assertion-libraries)
-* [Template engines](#template-engines)
-* [Platforms for building web app](#platforms-for-building-web-app)
-* [Performance](#performance)
-* [Validators & Quality Tools](#validators-quality-tools)
-* [OS X Apps](#os-x-apps)
+* [Browsers bug trackers](/Resources.md#browsers-bug-trackers)
+* [Mobile simulators](/Resources.md#mobile-simulators)
+* [Browsers Dev Builds](/Resources.md#browsers-dev-builds)
+* [Where to download version X of browser Y?](/Resources.md#where-to-download-version-x-of-browser-y)
+* [Browsers plugins](/Resources.md#browsers-plugins)
+* [Testing frameworks](/Resources.md#testing-frameworks)
+* [Assertion libraries](/Resources.md#assertion-libraries)
+* [Template engines](/Resources.md#template-engines)
+* [Platforms for building web app](/Resources.md#platforms-for-building-web-app)
+* [Performance](/Resources.md#performance)
+* [Validators & Quality Tools](/Resources.md#validators-quality-tools)
+* [OS X Apps](/Resources.md#os-x-apps)
 
 ### Misc
-* [Text Editors](#text-editors-and-ide)
-* [Stats](#stats)
-* [Manuals](#manuals)
-* [CDN](#cdn)
+* [Text Editors](/Resources.md#text-editors-and-ide)
+* [Stats](/Resources.md#stats)
+* [Manuals](/Resources.md#manuals)
+* [CDN](/Resources.md#cdn)
