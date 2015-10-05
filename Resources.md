@@ -232,6 +232,8 @@ Community driven list of *useful things* for front-end developers. [How to contr
 *   [CherryPy](http://cherrypy.org) – A Minimalist Python Web Framework. [Bitbucket](https://bitbucket.org/cherrypy/cherrypy/wiki/Home).
 *   RU: [Python Digest](http://pythondigest.ru). [GitHub](https://github.com/pythondigest/pythondigest).
 *   [Python Village](http://rosalind.info/problems/list-view/?location=python-village) – Learning programming through problem solving.
+*   [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro)
+*   [Pandas](http://pandas.pydata.org) – Python Data Analysis Library
 
 
 ## Development and testing
