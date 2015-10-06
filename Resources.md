@@ -147,9 +147,9 @@ Community driven list of *useful things* for front-end developers. [How to contr
 *   [Kube](http://imperavi.com/kube)
 *   [Topcoat](http://topcoat.io)
 *   [Ratchet](http://goratchet.com) *   Build mobile apps with simple HTML, CSS, and JS components.
-*   [Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
-*   [Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
-*   [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
+*	[Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
+*	[Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
+*	[Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
 
 
 ## Design
@@ -337,6 +337,7 @@ Community driven list of *useful things* for front-end developers. [How to contr
 *   [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
 *   [CSSLint](http://csslint.net) — static analysis tool for CSS code
 *   [RECSS](http://twitter.github.com/recess) — A simple and attractive code quality tool for CSS built on top of LESS
+*	[SCSS-Lint](https://github.com/mariusbuescher/frontdesk.git) - Configurable tool for writing clean and consistent SCSS.
 *   [JSLint](http://jslint.com) — The JavaScript Code Quality Tool by Douglas Crockford
 *   [JSHint](http://jshint.com) — community-driven tool to detect errors and potential problems in JavaScript code
 *   [JSCS](https://github.com/mdevils/node-jscs) — JavaScript Code Style checker
