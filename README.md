@@ -133,6 +133,10 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [HTML5Pattern](http://html5pattern.com) - HTML5Pattern is a source of regularly used Input-Patterns.
 - [HTML 5 Outliner](http://gsnedders.html5.org/outliner)
 - [(X)HTML5 Validator](http://html5.validator.nu)
+- [Schema.org](http://schema.org) — Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
+- [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
+- [Unicode Table](http://unicode-table.com) - Unicode character table.
+- [amp-what.com](http://www.amp-what.com) — a quick, interactive reference of 14,500 HTML character entities.
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser)
@@ -280,8 +284,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Special Characters Easy to Paste](http://copypastecharacter.com)
 - [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 - [ipsum.me](http://ipsum.me)
-- [Schema.org](http://schema.org) — Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
-- [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
 - [base64 converter](http://webcodertools.com/imagetobase64converter/Create) (from computer)
 - [pasteboard.co](http://pasteboard.co) — image sharing web app
 - [Color Scheme Designer](http://colorschemedesigner.com) - find resonate colors for a great design.
@@ -292,7 +294,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Prepros](http://alphapixels.com/prepros) — CSS/JS preprocessor(LESS, Sass, SCSS, Stylus, Jade, Slim, CoffeeScript, LiveScript, Haml and Markdown), minifier and image optimization
 - [Front-end Frameworks Compare](http://usablica.github.io/front-end-frameworks/compare.html) - Comparing front-end frameworks for faster and easier web development.
 - [Gridlover](http://www.gridlover.net) - Tool to establish a typographic system with modular scale and vertical rhythm.
-- [Unicode Table](http://unicode-table.com) - Unicode character table.
 - [Graphemica](http://graphemica.com) - One more unicode character table.
 - [Web Developer Checklist](http://webdevchecklist.com)
 - [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
