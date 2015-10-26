@@ -185,6 +185,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 - [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
 - [csstriggers.com](http://csstriggers.com) — a game of layout, paint, and composite.
+- [Browser Hacks](http://browserhacks.com) — extensive list of browser specific CSS and JavaScript hacks.
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
