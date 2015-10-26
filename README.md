@@ -90,6 +90,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [x-tags](http://www.x-tags.org) - is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers
 - [KeyCode](http://keycode.info) - Easy visualizer for JavaScript KeyCodes
 - [Callback Hell](http://callbackhell.com/) – A guide to writing asynchronous javascript programs
+- [js2.coffee](http://js2.coffee)
 
 ## JS frameworks
 - [TodoMVC](http://todomvc.com) — helping you select an MV* framework.
