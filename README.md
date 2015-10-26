@@ -379,6 +379,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
 - [Ghostlab](http://vanamco.com/ghostlab) — responsive development workflow tool that allows for synchronized testing of your web app across multiple devices — similar to Edge Inspect
 - [ClipMenu](http://www.clipmenu.com) — A clipboard manager for Mac OS X
+- [noiz.io](http://noiz.io) – ambient sound equalizer for relax or productivity.
 
 ## Git
 - [GitHowTo](http://githowto.com)
