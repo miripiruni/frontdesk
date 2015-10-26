@@ -76,6 +76,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 – [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
+— [retinize.it](http://retinize.it) — Photoshop actions for slicing retina assets @2x @3x.
 
 ## JS
 - [XML to JSON](http://utilities-online.info/xmltojson)
