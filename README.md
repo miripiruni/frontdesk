@@ -183,6 +183,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 - [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 - [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
+- [csstriggers.com](http://csstriggers.com) — a game of layout, paint, and composite.
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
