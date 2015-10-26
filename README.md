@@ -320,6 +320,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## Manuals
 - [jQuery Docs](http://docs.jquery.com)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com)
 - [Try jQuery](http://try.jquery.com)
 - [MDN](https://developer.mozilla.org)
 - [dochub.io](http://dochub.io) — CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
