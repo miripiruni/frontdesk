@@ -12,17 +12,21 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [IE](https://connect.microsoft.com/IE)
 - [V8](https://code.google.com/p/v8/)
 
-## Mobile simulators
-- [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
-- [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
-- [Speedy Android emulator](http://www.genymotion.com)
-
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Internet Explorer 10](http://ie.microsoft.com/TESTdrive)
 - [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 - [WebKit Nightly](http://nightly.webkit.org)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora)
+
+## Browsers Dev Builds
+- [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
+- [Opera Next](http://my.opera.com/desktopteam/blog/) on Desktop team blog
+
+## Mobile simulators 
+- [Opera Mini](http://www.opera.com/developer/opera-mini-simulator), [Opera Mobile 12](http://www.opera.com/developer/mobile-emulator), [Opera TV Emulator](http://business.opera.com/solutions/tv/emulator)
+- [iOS Simulator in XCode](https://developer.apple.com/devcenter/ios/index.action)
+- [Speedy Android emulator](http://www.genymotion.com)
 
 ## Where to download version X of browser Y?
 - Firefox:
@@ -275,8 +279,14 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Styleguides.io](http://styleguides.io) – Website Style Guide Resources
 
 ## Misc
+- [Easings function](http://easings.net/)
+- [CSScomb](http://csscomb.com/online/)
+- [XML to JSON](XML to JSON http://jsontoxml.utilities-online.info/)
 - [caniuse](http://caniuse.com)
+- [mobilehtml5](http://mobilehtml5.org/)
+- [html5please](http://html5please.com/)
 - [jquer.in](http://jquer.in) - A collection of jQuery plugins organized according to their category.
+- [jQuery Cheatsheet](http://jqapi.ru/)
 - [The Toolbox](http://www.thetoolbox.cc) — a collection of the best time-saving apps, tools, and widgets from around the web
 - [humans.txt](http://humanstxt.org)
 - [angular-js.in](http://angular-js.in) - A curated list of angular directives and modules.
@@ -322,6 +332,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [BootstrapCDN](https://www.bootstrapcdn.com) - Delivering: Bootstrap, Bootlint, Font Awesome and Bootswatch
 
 ## Manuals
+- [Hyper Polyglot](http://hyperpolyglot.org/)
 - [jQuery Docs](http://docs.jquery.com)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com)
 - [Try jQuery](http://try.jquery.com)
