@@ -3,6 +3,41 @@ Frontdesk
 
 Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/blob/master/CONTRIBUTING.md)
 
+See also: [Bibliotheque](/Bibliotheque.md) – A list of free books and tutorials for front-end developers.
+
+## Table of contents
+
+* [Browsers bug trackers](#browsers-bug-trackers)
+* [Mobile simulators](#mobile-simulators)
+* [Browsers Dev Builds](#browsers-dev-builds)
+* [Where to download version X of browser Y?](#where-to-download-version-x-of-browser-y)
+* [Browsers plugins](#browsers-plugins)
+* [Code snippets](#code-snippets)
+* [Img](#img)
+* [JS](#js)
+* [JS frameworks](#js-frameworks)
+* [Testing frameworks](#testing-frameworks)
+* [Assertion libraries](#assertion-libraries)
+* [HTML](#html)
+* [Template engines](#template-engines)
+* [CSS](#css)
+* [CSS Preprocessors](#css-preprocessors)
+* [CSS Postprocessors](#css-postprocessors)
+* [CSS frameworks](#css-frameworks)
+* [Platforms for building web app](#platforms-for-building-web-app)
+* [Style guides and methodologies](#style-guides-and-methodologies)
+* [Styleguide generators](#styleguide-generators)
+* [Misc](#misc)
+* [Stats](#stats)
+* [Performance](#performance)
+* [CDN](#cdn)
+* [Manuals](#manuals)
+* [Validators & Quality Tools](#validators--quality-tools)
+* [Fonts](#fonts)
+* [CLI Apps](#cli-apps)
+* [OS X Apps](#os-x-apps)
+* [Git](#git)
+
 ## Browsers bug trackers
 - [Opera](https://bugs.opera.com/wizard)
 - [Mozilla](https://bugzilla.mozilla.org)
