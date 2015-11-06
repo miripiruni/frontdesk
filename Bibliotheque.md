@@ -3,29 +3,6 @@ Bibliotheque
 
 Community driven list of *free online books and manuals* for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
-## Table of contents
-* [Git](#git)
-* [SVN](#svn)
-* [Mercurial](#mercurial)
-* [HTTP](#http)
-* [HTML](#html)
-* [JavaScript](#javascript)
-* [CoffeeScript](#coffeescript)
-* [Python](#python)
-* [Design](#design)
-* [MongoDB](#mongodb)
-* [Redis](#redis)
-* [Bash](#bash)
-* [Node.js](#nodejs)
-* [Business](#business)
-* [Ruby](#ruby)
-* [Vim](#vim)
-* [Screen](#screen)
-* [Lua](#lua)
-* [Clojure](#clojure)
-* [Haskell](#haskell)
-* [Erlang](#erlang)
-
 ## Git
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
@@ -53,9 +30,9 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-*   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) ([ru](http://bonsaiden.github.io/JavaScript-Garden/ru/))
-*   [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript) ([ru](http://largescalejs.ru/))
+*   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) ([ru](http://bonsaiden.github.io/JavaScript-Garden/ru/))
+*   [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 *   [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 *   [Single page apps in depth](http://singlepageappbook.com/)
 
@@ -65,16 +42,15 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Python
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
-*   [Learn Python The Hard Way](http://learnpythonthehardway.org)
-*   [Dive into Python 3](http://www.diveinto.org/python3)
-*   [Keywords in Python](http://zetcode.com/lang/python/keywords)
+*   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+*   [Dive into Python 3](http://www.diveinto.org/python3/)
 
 ## Design
-*   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc)
-*   [Edward Tufte](http://edwardtufte.ru)
+*   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+*   [Edward Tufte](http://edwardtufte.ru/)
 
 ## MongoDB
-*   [The Little MongoDB Book](http://jsman.ru/mongo-book)
+*   [The Little MongoDB Book](http://jsman.ru/mongo-book/)
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
