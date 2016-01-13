@@ -250,7 +250,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Google style guide](http://code.google.com/p/google-styleguide)
 - [NPM Coding Style](https://www.npmjs.org/doc/misc/npm-coding-style.html)
 - [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
-- [Dojo Style Guide](https://dojotoolkit.org/community/styleGuide)
+- [Dojo Style Guide](https://dojotoolkit.org/reference-guide/1.10/developer/styleguide.html#developer-styleguide)
 - [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
