@@ -185,7 +185,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor)
 - [:nth Tester](http://css-tricks.com/examples/nth-child-tester)
 - [The CSS3 test](http://css3test.com)
-- [The 3D CSS text generator](http://3dcsstext.com)
+- [The 3D CSS text generator](http://tools.visaonho.com/3dcsstext/)
 - [Get Your Nested Border Radii Right!](http://joshnh.com/tools/get-your-nested-border-radii-right.html)
 - [extractCSS](http://extractcss.com) is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 - [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
