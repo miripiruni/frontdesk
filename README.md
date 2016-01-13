@@ -115,7 +115,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Mocha](http://visionmedia.github.com/mocha)
 - [QUnit](http://qunitjs.com)
 - [Buster.js](http://busterjs.org)
-- [YUI Test](http://yuilibrary.com/yui/docs/test)
+- [YUI Test](http://yuilibrary.com/yui/docs/test/)
 - [D.O.H.](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
 - [wru](https://github.com/WebReflection/wru.git)
 - [sinon](http://sinonjs.org) - Standalone test spies, stubs and mocks for JavaScript
