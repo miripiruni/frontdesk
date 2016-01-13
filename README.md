@@ -75,8 +75,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
 - [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
-– [Smarticons](https://smarticons.co) – Customizable SVG icon system for the modern web.
-— [retinize.it](http://retinize.it) — Photoshop actions for slicing retina assets @2x @3x.
+- [Smarticons](https://smarticons.co) — Customizable SVG icon system for the modern web.
+- [retinize.it](http://retinize.it) — Photoshop actions for slicing retina assets @2x @3x.
 
 ## JS
 - [XML to JSON](http://utilities-online.info/xmltojson)
@@ -104,7 +104,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Spine](http://spinejs.com) — lightweight MVC library for building JavaScript applications.
 - [Batman.js](http://batmanjs.org) — is a framework for building rich single-page browser applications with CoffeeScript or JavaScript.
 - [Dojo](http://dojotoolkit.org)
-- [Agility.js](http://agilityjs.com) — is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
+- [Agility.js](http://agilityjs.com) — is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It’s write less, do more with maintainability.
 - [Closure Library](http://code.google.com/p/closure-library) is a broad, well-tested, modular, and cross-browser JavaScript library.
 - [Metro JS](http://www.drewgreenwell.com/projects/metrojs) - plugin for jQuery which enables the Modern UI interface on the web.
 - [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
@@ -163,7 +163,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [The CSS3 Test](http://css3test.com) — check your browser!
 - [CSScomb](http://csscomb.com) — tool for sorting CSS properties in specific order
 - [Procssor](http://procssor.com) — CSS Beautifier
-- [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/index.html)
+- [Eric Meyer’s reset](http://meyerweb.com/eric/tools/css/reset/index.html)
 - [normalize.css](http://necolas.github.com/normalize.css)
 - [CSS Gradient finder](http://gradientfinder.com)
 - [CSS Gradient generator](http://www.colorzilla.com/gradient-editor)
@@ -242,7 +242,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
 
 ## Platforms for building web app
-- [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+- [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you’re an expert developer or just getting started.
 - [Google Apps Script](http://www.google.com/script/start) - Build web apps and automate tasks with Google Apps Script
 
 ## Style guides and methodologies
@@ -253,7 +253,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Dojo Style Guide](https://dojotoolkit.org/reference-guide/1.10/developer/styleguide.html#developer-styleguide)
 - [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [Harry Roberts' CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
+- [Harry Roberts’ CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
 - [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
@@ -299,7 +299,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Graphemica](http://graphemica.com) - One more unicode character table.
 - [Web Developer Checklist](http://webdevchecklist.com)
 - [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
-– [Coolors](https://coolors.co) – Fast color scheme generator.
+- [Coolors](https://coolors.co) – Fast color scheme generator.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
@@ -330,7 +330,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [devdocs.io](http://devdocs.io) — HTML, CSS, DOM, DOM Events, JavaScript, jQuery
 - [overapi.com](http://overapi.com) — Collecting All Cheat Sheets
 - [Bento](http://www.bentobox.io) — Everything you need to know about web development. Neatly packaged.
-- [Superherojs.com](http://superherojs.com) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
+- [Superherojs.com](http://superherojs.com) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what’s on the horizon.
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
 
@@ -353,20 +353,20 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Fontello](http://fontello.com) — easy way to combine selected icons from popular icons sets into custom made font
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome) - The iconic font designed for Bootstrap
-- [Entypo](https://github.com/danielbruce/entypo) - command line utility to generate fonts from separate svg files. This is possible to associate each icon with a symbol
-- [Font Family Reunion](http://fontfamily.io) - Compatibility tables for default local fonts.
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome) — The iconic font designed for Bootstrap
+- [Entypo](https://github.com/danielbruce/entypo) — command line utility to generate fonts from separate svg files. This is possible to associate each icon with a symbol
+- [Font Family Reunion](http://fontfamily.io) — Compatibility tables for default local fonts.
 
 ## CLI Apps
-- [Grunt](http://gruntjs.com) - Javascript task runner
-- [Gulp](http://gulpjs.com) - Javascript task runner based on node streams
-- [Yeoman](http://yeoman.io) - Developer workflow
-- [Brunch](http://brunch.io) - Brunch is an assembler for HTML5 applications
-- [Bower](http://bower.io) - Javascript package manager
-- [Jam](http://jamjs.org) - Jam is a package manager for JavaScript
-- [Component](https://github.com/component/component) - Component package manager for building a better web
-- [Karma test runner](http://karma-runner.github.io) - Spectacular test runner for Javascript
-- [browser-repl](https://github.com/cloudup/browser-repl) - Launch a repl on your command line to any browser in the cloud
+- [Grunt](http://gruntjs.com) — Javascript task runner
+- [Gulp](http://gulpjs.com) — Javascript task runner based on node streams
+- [Yeoman](http://yeoman.io) — Developer workflow
+- [Brunch](http://brunch.io) — Brunch is an assembler for HTML5 applications
+- [Bower](http://bower.io) — Javascript package manager
+- [Jam](http://jamjs.org) — Jam is a package manager for JavaScript
+- [Component](https://github.com/component/component) — Component package manager for building a better web
+- [Karma test runner](http://karma-runner.github.io) — Spectacular test runner for Javascript
+- [browser-repl](https://github.com/cloudup/browser-repl) — Launch a repl on your command line to any browser in the cloud
 
 ## OS X Apps
 - [CodeKit](https://incident57.com/codekit) — web-dev workflow in the one app: compile everything, autorefresh all browsers, catch errors, add source maps
@@ -374,14 +374,14 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Google Web Designer](https://www.google.com/webdesigner) — tool for creating interactive HTML5-based designs and motion graphics
 - [ColorSnapper](http://colorsnapper.com) — easy-to-use tool for quickly finding out the color of any pixel on the screen
 - [Gitbox](http://gitboxapp.com) — version control as easy as Mail
-- [LiveReload](http://livereload.com) — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
+- [LiveReload](http://livereload.com) — “As soon as you save a file, it is preprocessed as needed, and the browser is refreshed...”
 - [PixFit](http://splashsoftware.pl/pixfit) — measure tool
 - [xScope](http://xscopeapp.com) — for measuring, inspecting & testing on-screen graphics and layouts
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro) — Mac, Apache, MySQL and PHP
 - [DataURLMaker](https://github.com/sveinbjornt/Data-URL-Toolkit/tree/master/Releases)
-- [ImageOptim](http://imageoptim.com) — drag'n'drop UI and various optimisation tools
+- [ImageOptim](http://imageoptim.com) — drag’n’drop UI and various optimisation tools
 - [ImageAlpha](http://pngmini.com) — converts 24-bit PNG to paletted 8-bit with full alpha channel
-- [BLESS CSS](http://blesscss.com) — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
+- [BLESS CSS](http://blesscss.com) — fighting IE’s CSS selectors limit, and nice tool for checking CSS selectors count
 - [Kaleidoscope](http://www.kaleidoscopeapp.com) — a nice diff tool
 - [Dash](http://kapeli.com/dash) — gives you instant offline access to 80+ API documentation sets.
 - [Ghostlab](http://vanamco.com/ghostlab) — responsive development workflow tool that allows for synchronized testing of your web app across multiple devices — similar to Edge Inspect
@@ -393,6 +393,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Pro Git](http://git-scm.com/book)
 - [Try Git](http://try.github.com)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching)
-- [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
+- [Gitflow](https://github.com/nvie/gitflow) — A collection of Git extensions to provide high-level repository operations for Vincent Driessen’s [branching model](http://nvie.com/git-model).
 - [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
 - [Githug](https://github.com/gazler/githug) — Git Your Game On
