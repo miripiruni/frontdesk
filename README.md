@@ -343,6 +343,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [JSLint](http://jslint.com) — The JavaScript Code Quality Tool by Douglas Crockford
 - [JSHint](http://jshint.com) — community-driven tool to detect errors and potential problems in JavaScript code
 - [JSCS](https://github.com/mdevils/node-jscs) — JavaScript Code Style checker
+- [livestyle.io/analyzer](http://livestyle.io/analyzer/) — A working prototype of LiveStyle’s conceptual UI for improving preprocessor stylesheet editing workflow.
 
 ## Fonts
 - [CSSFontStack](http://cssfontstack.com)
