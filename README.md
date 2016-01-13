@@ -231,7 +231,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs)
 - [Less Framework](http://lessframework.com)
 - [Skeleton](http://www.getskeleton.com)
-- [inuit.css](http://csswizardry.com/inuitcss)
+- [inuit.css](https://github.com/csswizardry/inuit.css/)
 - [baseline](http://baselinecss.com)
 - [Frameless grid](http://framelessgrid.com)
 - [Kube](http://imperavi.com/kube)
