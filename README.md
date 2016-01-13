@@ -308,7 +308,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## Performance
 - [YUI JS, CSS compressor](http://www.refresh-sf.com/yui)
-- [CSSO](http://afelix.github.com/csso) — Cleaver CSS optimizer
+- [CSSO](https://github.com/css/csso) — In addition to usual minification techniques it can perform structural optimization of CSS files
 - [YSlow](http://developer.yahoo.com/yslow) — Cross-browser plugin for page speed and performance testing
 - [Google page speed](https://developers.google.com/speed/pagespeed) — Page speed measurement tools collection from Google
 - [Web page test](http://www.webpagetest.org) — Check page speed from multiple locations around the globe using real browsers
