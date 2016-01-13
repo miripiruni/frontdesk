@@ -26,7 +26,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## Where to download version X of browser Y?
 - Firefox:
-    - [Official archive](http://ftp.mozilla.org/pub/mozilla.org)
+    - [Official archive](https://ftp.mozilla.org/pub/firefox/)
     - [Bash script](https://github.com/omgmog/install-all-firefox)
     - [All Firefox Releases](http://mozilla-russia.org/products/firefox/history.html#release)
 - Opera:
