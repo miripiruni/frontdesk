@@ -3,6 +3,29 @@ Bibliotheque
 
 Community driven list of *free online books and manuals* for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/wiki/How-to-contribute)
 
+## Table of contents
+* [Git](#git)
+* [SVN](#svn)
+* [Mercurial](#mercurial)
+* [HTTP](#http)
+* [HTML](#html)
+* [JavaScript](#javascript)
+* [CoffeeScript](#coffeescript)
+* [Python](#python)
+* [Design](#design)
+* [MongoDB](#mongodb)
+* [Redis](#redis)
+* [Bash](#bash)
+* [Node.js](#nodejs)
+* [Business](#business)
+* [Ruby](#ruby)
+* [Vim](#vim)
+* [Screen](#screen)
+* [Lua](#lua)
+* [Clojure](#clojure)
+* [Haskell](#haskell)
+* [Erlang](#erlang)
+
 ## Git
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
