@@ -3,7 +3,7 @@ Frontdesk
 
 Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/blob/master/CONTRIBUTING.md)
 
-## Browsers bug trackers
+## Bug trackers (browsers & engines)
 - [Opera](https://bugs.opera.com/wizard)
 - [Mozilla](https://bugzilla.mozilla.org)
 - [Chromium](http://code.google.com/p/chromium/issues/list)
