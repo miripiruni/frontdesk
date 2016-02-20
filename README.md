@@ -321,6 +321,9 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [cdnjs](http://cdnjs.com) — We host it all - JavaScript, CSS, SWF, images, etc
 - [BootstrapCDN](https://www.bootstrapcdn.com) - Delivering: Bootstrap, Bootlint, Font Awesome and Bootswatch
 
+## Security
+- [Check Security Headers](https://securityheaders.io)
+
 ## Manuals
 - [jQuery Docs](http://docs.jquery.com)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com)
