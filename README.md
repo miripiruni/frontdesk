@@ -29,6 +29,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 * [Stats](#stats)
 * [Performance](#performance)
 * [CDN](#cdn)
+* [Security](#security)
 * [Manuals](#manuals)
 * [Validators & Quality Tools](#validators--quality-tools)
 * [Fonts](#fonts)
