@@ -433,3 +433,4 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Gitflow](https://github.com/nvie/gitflow) — A collection of Git extensions to provide high-level repository operations for Vincent Driessen’s [branching model](http://nvie.com/git-model).
 - [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
 - [Githug](https://github.com/gazler/githug) — Git Your Game On
+- [Git Fix Best Practices](http://sethrobertson.github.io/GitFixUm/fixup.html) - Git How to Fix things (undo, revert and many best practices)
