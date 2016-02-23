@@ -190,6 +190,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Ractive](http://www.ractivejs.org) - Next-generation DOM manipulation
 - [cnCt](https://github.com/SoftWearFinance/cnCt) — Building DOM from JSON-templates
 - [nunjucks](https://mozilla.github.io/nunjucks) — JavaScript port of Jinja2
+- [bem-xjst](https://github.com/bem/bem-xjst) — A clever compiler for BEM-specific templates with JavaScript syntax.
 
 ## CSS
 - [Data URL Toolkit](https://github.com/sveinbjornt/Data-URL-Toolkit), [online service](http://dataurl.net)
