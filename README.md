@@ -44,6 +44,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Yandex.Browser](https://feedback2.yandex.ru/yabrowser/err/other)
 - [WebKit](http://www.webkit.org/quality/reporting.html)
 - [IE](https://connect.microsoft.com/IE)
+- [EdgeHTML](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/)
 - [V8](https://code.google.com/p/v8/)
 
 ## Mobile simulators
