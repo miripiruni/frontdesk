@@ -56,7 +56,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - [Internet Explorer 10](http://ie.microsoft.com/TESTdrive)
 - [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
-- [WebKit Nightly](http://nightly.webkit.org)
+- [WebKit Nightly](http://nightly.webkit.org), [Safari Technology Preview](https://webkit.org/downloads/)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora)
 
 ## Where to download version X of browser Y?
