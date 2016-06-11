@@ -227,6 +227,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [CSS Explain](http://josh.github.io/css-explain) — Think of it like SQL `EXPLAIN`, but for CSS selectors.
 - [csstriggers.com](http://csstriggers.com) — a game of layout, paint, and composite.
 - [Browser Hacks](http://browserhacks.com) — extensive list of browser specific CSS and JavaScript hacks.
+- [CSS Cursor](http://css-cursor.techstream.org) — web app helps you to choose cursor type from the showcase for use in your application.
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
