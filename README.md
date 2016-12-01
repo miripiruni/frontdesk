@@ -293,7 +293,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Harry Roberts’ CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 - [SMACSS](http://smacss.com) — Scalable and Modular Architecture for CSS
 - [OOCSS](http://oocss.org) — Object oriented CSS
-- [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html) — Block Element Modificator
+- [BEM](https://en.bem.info/methodology) — Block Element Modificator
 - [Holy Grail Markup](https://github.com/AleshaOleg/holy-grail-markup) — “Hello world” markup using different CSS methodologies: OOCSS, SMACSS, Atomic & Organic, BEM
 - [DoCSSa {dok~sa}](http://docssa.info) — Sass based CSS architecture and methodology
 - [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
