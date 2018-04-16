@@ -377,6 +377,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Superherojs.com](http://superherojs.com) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what’s on the horizon.
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
+- [howdns.works](https://howdns.works)  - A fun and colorful explanation of how DNS works.
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
