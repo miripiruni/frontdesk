@@ -278,7 +278,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
 - [Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
 - [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
-- [Lighter](https://amine1107.github.io/lighter) – flexible Css micro framework,Based on the visual aspect, the framework offers you a clean and easy work.
+- [Lighter](https://amine1107.github.io/lighter) – flexible CSS micro framework, Based on the visual aspect, the framework offers you a clean and easy work.
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you’re an expert developer or just getting started.
