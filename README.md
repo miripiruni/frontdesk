@@ -341,6 +341,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
 - [Coolors](https://coolors.co) – Fast color scheme generator.
 - [ColorMe](https://colorme.io) – Visualize The CSS Color Function.
+- [oauthbible](http://oauthbible.com) – Clear OAuth explaination.
 
 
 ## Stats
