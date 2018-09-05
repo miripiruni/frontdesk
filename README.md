@@ -77,6 +77,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
 
 ## Browsers plugins
+- [Checkbot](https://www.checkbot.io) - Crawls your site testing pages follow 50+ SEO, speed and security best practices.
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) - useful tool for RESTful APIs
 - [Firebug](http://getfirebug.com)
