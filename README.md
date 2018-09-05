@@ -369,6 +369,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Check Security Headers](https://securityheaders.io)
 
 ## Manuals
+- [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) — Details 50+ SEO, speed and security web best practices.
 - [jQuery Docs](http://docs.jquery.com)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com)
 - [Try jQuery](http://try.jquery.com)
