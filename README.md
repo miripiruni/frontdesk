@@ -147,7 +147,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [jsdb.io](http://www.jsdb.io) — The definitive source of the best JavaScript frameworks, plugins, and tools
 
 ## Testing frameworks
-- [Jasmine](http://pivotal.github.com/jasmine)
+- [Jasmine](https://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [QUnit](http://qunitjs.com)
 - [Buster.js](http://busterjs.org)
