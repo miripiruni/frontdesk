@@ -26,6 +26,7 @@ Community driven list of *free online books and manuals* for front-end developer
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Erlang](#erlang)
+* [Processing](#processing)
 * [Other](#other)
 
 ## Git
@@ -120,6 +121,10 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Erlang
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/)
+
+## Processing
+*   [Natue of Code](https://natureofcode.com/book/)
+*   [Learning Processing](http://learningprocessing.com/)
 
 ## Other
 *   [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
