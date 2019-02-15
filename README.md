@@ -342,6 +342,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Coolors](https://coolors.co) – Fast color scheme generator.
 - [ColorMe](https://colorme.io) – Visualize The CSS Color Function.
 - [oauthbible](http://oauthbible.com) – Clear OAuth explaination.
+- [RequestBin.com](https://requestbin.com) - You can use the service to create a free HTTPS endpoint. Any HTTP requests sent to that endpoint will be recorded with the associated HTTP payload and headers so you can observe the data sent from webhooks or other apps before configuring your application to accept it.
 
 
 ## Stats
