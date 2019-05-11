@@ -9,6 +9,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 * [Mobile simulators](#mobile-simulators)
 * [Browsers Dev Builds](#browsers-dev-builds)
 * [Where to download version X of browser Y?](#where-to-download-version-x-of-browser-y)
+* [Browsers devtools docs](#browsers-devtools-docs)
 * [Browsers plugins](#browsers-plugins)
 * [Code snippets](#code-snippets)
 * [Img](#img)
@@ -75,6 +76,12 @@ Community driven list of useful things for front-end developers. [How to contrib
     - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
     - [Any version](http://loc.modern.ie/virtualization-tools#downloads) - Any version of IE on any Windows version, free VM images
 - [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
+
+## Browsers devtools docs
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+- [Microsoft Edge (EdgeHTML) Developer Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide)
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- [Safari Developer Help](https://support.apple.com/guide/safari-developer/welcome/mac)
 
 ## Browsers plugins
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
