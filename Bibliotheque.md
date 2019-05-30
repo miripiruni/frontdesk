@@ -48,7 +48,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/)
 
 ## HTTP
-*   [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+*   [High-Performance Browser Networking](https://hpbn.co/)
 
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
