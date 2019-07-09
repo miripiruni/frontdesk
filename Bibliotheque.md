@@ -128,3 +128,4 @@ Community driven list of *free online books and manuals* for front-end developer
 
 ## Other
 *   [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
+*   [SOLID Book](https://ota-solid.now.sh) (ru)
