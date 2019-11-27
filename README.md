@@ -93,6 +93,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Live HTTP Headers](http://livehttpheaders.mozdev.org) — Provides information about the HTTP headers
 - [Dimensions](http://felixniklas.com/dimensions) - You can measure everything you see in the browser
 - [browsersync.io](http://www.browsersync.io) - Time-saving synchronised browser testing
+- [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 
 ## Code snippets
 - [Dabblet](http://dabblet.com) — interactive playground for quickly testing snippets of CSS and HTML
