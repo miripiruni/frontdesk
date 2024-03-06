@@ -180,7 +180,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [(X)HTML5 Validator](http://html5.validator.nu)
 - [Schema.org](http://schema.org) — Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
 - [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
-- [Unicode Table](http://unicode-table.com) - Unicode character table.
+- [Unicode Table](https://symbl.cc) - Unicode character table.
 - [amp-what.com](http://www.amp-what.com) — a quick, interactive reference of 14,500 HTML character entities.
 
 ## Template engines
