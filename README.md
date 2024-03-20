@@ -182,6 +182,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Microformats.org](http://microformats.org) — hcard, hcalendar and etc.
 - [Unicode Table](https://symbl.cc) - Unicode character table.
 - [amp-what.com](http://www.amp-what.com) — a quick, interactive reference of 14,500 HTML character entities.
+- [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template) - Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser)
@@ -389,6 +390,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
 - [howdns.works](https://howdns.works)  - A fun and colorful explanation of how DNS works.
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)  - An interactive list of Bootstrap 5 classes, variables, and mixins.
+
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
