@@ -389,6 +389,8 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
 - [howdns.works](https://howdns.works)  - A fun and colorful explanation of how DNS works.
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)  - An interactive list of Bootstrap 5 classes, variables, and mixins.
+
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
