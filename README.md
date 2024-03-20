@@ -84,6 +84,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Safari Developer Help](https://support.apple.com/guide/safari-developer/welcome/mac)
 
 ## Browsers plugins
+- [Checkbot](https://www.checkbot.io) - Crawls your site testing pages follow 50+ SEO, speed and security best practices.
 - [Chrome Dev HTTP Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) - useful tool for RESTful APIs
 - [Firebug](http://getfirebug.com)
@@ -377,6 +378,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Check Security Headers](https://securityheaders.io)
 
 ## Manuals
+- [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) — Details 50+ SEO, speed and security web best practices.
 - [jQuery Docs](http://docs.jquery.com)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com)
 - [Try jQuery](http://try.jquery.com)
