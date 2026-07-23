@@ -351,6 +351,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [ColorMe](https://colorme.io) – Visualize The CSS Color Function.
 - [oauthbible](http://oauthbible.com) – Clear OAuth explaination.
 - [RequestBin.com](https://requestbin.com) - You can use the service to create a free HTTPS endpoint. Any HTTP requests sent to that endpoint will be recorded with the associated HTTP payload and headers so you can observe the data sent from webhooks or other apps before configuring your application to accept it.
+- [Sez](https://sez.c-sharptutorial.com/) – Instantly apply and generate color palettes for HTML website themes without opening an editor or IDE.
 
 
 ## Stats
