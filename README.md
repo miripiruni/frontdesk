@@ -127,6 +127,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [MicroJS](http://microjs.com) — helps you discover the most compact-but-powerful microframeworks
 - [JavaScript Beautifier](http://jsbeautifier.org)
 - [pro.jsonlint.com](http://pro.jsonlint.com) — pro version of jsonlint.com
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) — compare JSON structures and inspect added, removed or changed values by path
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - [Oboe.js](http://oboejs.com) - Streaming JSON loading for Node and browsers
