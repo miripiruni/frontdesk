@@ -55,7 +55,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## Browsers Dev Builds
 - [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
-- [Internet Explorer 10](http://ie.microsoft.com/TESTdrive)
 - [Opera Next Desktop](http://www.opera.com/developer/next), [Opera Beta Mobile](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 - [WebKit Nightly](http://nightly.webkit.org), [Safari Technology Preview](https://webkit.org/downloads/)
 - [Firefox Nightly](http://nightly.mozilla.org), [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora)
@@ -74,7 +73,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - Internet Explorer:
     - [IE 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)
     - [IE 9](http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages)
-    - [Any version](http://loc.modern.ie/virtualization-tools#downloads) - Any version of IE on any Windows version, free VM images
 - [Browser Logos](https://github.com/alrra/browser-logos) — collection of high resolution web browser logos with transparent backgrounds
 
 ## Browsers devtools docs
@@ -118,7 +116,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) — Favicon Cheat Sheet
 - [Favicon generator](http://www.favicon.cc) — draw your favicon
 - [Real Favicon Generator](http://realfavicongenerator.net) — Generate the favicon pictures and HTML code that work on all major browsers and platforms
-- [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 - [Smarticons](https://smarticons.co) — Customizable SVG icon system for the modern web.
 - [retinize.it](http://retinize.it) — Photoshop actions for slicing retina assets @2x @3x.
 
@@ -223,7 +220,6 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Stylie](http://jeremyckahn.github.io/stylie) — A fun CSS animation tool
 - [autoprefixer](https://github.com/ai/autoprefixer) — Parse CSS and add prefixed properties and values by actual Can I Use database
 - [Patternify](http://www.patternify.com) — Draw your own Pattern then just copypaste CSS code
-- [Screensiz.es](http://screensiz.es) - Table of characteristics of popular devices.
 - [DPI Love](http://dpi.lv) - Calculation DPI of devices.
 - [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio)
 - [CSS3 Generator](http://css3generator.com)
@@ -389,6 +385,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
 - [howdns.works](https://howdns.works)  - A fun and colorful explanation of how DNS works.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
